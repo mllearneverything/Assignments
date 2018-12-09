@@ -1,0 +1,3007 @@
+Sample Antivirus Program Log.
+Created On: 08/12/2018
+
+Directory: E:\Xcluded\Samples
+
+Start: 
+
+Scanning: E:\Xcluded\Samples\af8d0e94fef24434add93aa483a05fd8
+Infected: Trojan-PWS.Win32.Kykymber
+
+Scanning: E:\Xcluded\Samples\6e8c9a38efcf4a278101064b487810d4
+Infected: Riskware/MyWebSearch
+
+Scanning: E:\Xcluded\Samples\67696134202a4da5a95a234f6086ad9e
+Infected: Hacktool.IdleKMS.C.gfky
+
+Scanning: E:\Xcluded\Samples\61096b1831b84c4b95f71dc6c3892464
+Infected: Adware.Win32.Agent
+
+Scanning: E:\Xcluded\Samples\ba84a42ec26e4c78a1951044b724b596
+Infected: Troj/Keygen-DX
+
+Scanning: E:\Xcluded\Samples\8ea36baf44ed420dbeed31e3aa2dbe24
+Infected: Adware.SearchProtect.2
+
+Scanning: E:\Xcluded\Samples\e88d4e051e104b3f9d3b81d3e1b1da31
+Infected: ADWARE/InstallRex.Q
+
+Scanning: E:\Xcluded\Samples\0181a9ff3b3d49e8ae5ca3daf22281db
+Infected: Trojan/Win32.SGeneric
+
+Scanning: E:\Xcluded\Samples\8a72c3c9f0f54141b56112187b3a2822
+Infected: Trojan/Win32.Bladabindi
+
+Scanning: E:\Xcluded\Samples\4ad038f85cf741b8a1f4e8f3f544051f
+Infected: Trojan.ADRD
+
+Scanning: E:\Xcluded\Samples\d1322c2cceef4f2e90bf2324f9d94641
+Infected: Troj/Keygen-DX
+
+Scanning: E:\Xcluded\Samples\e3362009388843e281259d818da5a9bf
+Infected: Trojan.GenericKD.30788163 (B)
+
+Scanning: E:\Xcluded\Samples\0670dad5dc454a7cbd810c855402d3bd
+Infected: Win32.Madang.C
+
+Scanning: E:\Xcluded\Samples\d5b5676afce741a88773bdccd88d785e
+Infected: Trojan/Win32.Agent
+
+Scanning: E:\Xcluded\Samples\70d2d51b6a33412ab107e4bbaacf9aa5
+Infected: ADWARE/Adware.Gen
+
+Scanning: E:\Xcluded\Samples\7db352238ba64872bed1ba05769e8de2
+Infected: Trojan.GenericKD.30788163 (B)
+
+Scanning: E:\Xcluded\Samples\acda491c85c8497195db6c86c4628257
+Infected: ADWARE/InstallRex.Q
+
+Scanning: E:\Xcluded\Samples\b163ff1783304f9fbefd2da43904b81e
+Infected: Adware.SearchProtect.ky.tmre
+
+Scanning: E:\Xcluded\Samples\ea4aa2f32c8547539e2b43e779292fa0
+Infected: Skodna.Bundle.BD
+
+Scanning: E:\Xcluded\Samples\f64c11f938984a7fadaf172c2b489eff
+Infected: Win32.Madang.C
+
+Scanning: E:\Xcluded\Samples\878666d3844f4914bf23974a62785979
+Infected: Adware.MAC.OSX.Genieo.BU
+
+Scanning: E:\Xcluded\Samples\03ca2b745dc04ce8bab5cd0119ffa0a8
+Infected: Trojan.Miner.ZZ2
+
+Scanning: E:\Xcluded\Samples\39e9b3103e9041bb8d0577939c9c59b0
+Infected: Trojan.GenericKD.30788163 (B)
+
+Scanning: E:\Xcluded\Samples\08f72ccffae14a619a0188bcbdd40506
+Infected: Skodna.Bundle.BD
+
+Scanning: E:\Xcluded\Samples\e0ffe5fb2b1a46e5816546b4a3c402ad
+Infected: Win32.Madang.C
+
+Scanning: E:\Xcluded\Samples\4a14890b0bd447398b48da6f3923377f
+Infected: Trojan.Mauvasie
+
+Scanning: E:\Xcluded\Samples\58139c9a79754c428518a6cf7ffc6a9f
+Infected: MyPCBackup.E.foha
+
+Scanning: E:\Xcluded\Samples\edaaf976b0e84aab915da2b0d6b3769c
+Infected: Trojan.GenericKD.30788163
+
+Scanning: E:\Xcluded\Samples\6e30128fd7034e4c81436bcb7ba2b68c
+Infected: Adware.MAC.OSX.Genieo.BU
+
+Scanning: E:\Xcluded\Samples\e38965f147cf4743ba4b43fc33b6b53c
+Infected: Adware.SearchProtect.ky.tmre
+
+Scanning: E:\Xcluded\Samples\2464707502d44306980d0d600b682111
+Infected: Adware.Suptab.Aq	
+
+Scanning: E:\Xcluded\Samples\a1cf9a1558974471bd06b3492686d02f
+Infected: Win32.Madang.C
+
+Scanning: E:\Xcluded\Samples\7db384f0aed34f9f89f1659cb7d803c2
+Infected: Adware.WProtManager.Win32.21
+
+Scanning: E:\Xcluded\Samples\ffbd16f918bf47f2a3a90969343066e0
+Infected: Trojan.Mauvasie
+
+Scanning: E:\Xcluded\Samples\fe1cb04dcd754622aca8a5983d3c973e
+Infected: Trojan/Win32.Agent
+
+Scanning: E:\Xcluded\Samples\bdca548c530a42b293732c3eabf50f6a
+Infected: Skodna.Bundle.BD
+
+Scanning: E:\Xcluded\Samples\f74cce70580e493a8a799a3bf223957d
+Infected: Adware/Agent.lmx	
+
+Scanning: E:\Xcluded\Samples\5afd84a2507640bd96085c25eb6b1947
+Infected: Trojan.ADRD
+
+Scanning: E:\Xcluded\Samples\0f95d85cae4142f7896b0db5b1c995e4
+Infected: Trojan.GenericKD.30788163 (B)
+
+Scanning: E:\Xcluded\Samples\ee387c8acf404e85a76dc97363944165
+Infected: Trojan.ADRD
+
+Scanning: E:\Xcluded\Samples\33f713ee024547c39e61c3ffc9b79c3f
+Infected: Application.Agent.HN
+
+Scanning: E:\Xcluded\Samples\acf575f82c4c457799502bc0063c76e6
+Infected: JS/Exploit-Blacole.jf
+
+Scanning: E:\Xcluded\Samples\4fb1350deed942b5905931de2ca33b3b
+Infected: ADWARE/Adware.Gen
+
+Scanning: E:\Xcluded\Samples\2fa258e9af0f4ce09803404659c0a17c
+Infected: Trojan/Win32.SGeneric
+
+Scanning: E:\Xcluded\Samples\6d4c4ccc63624b4a9f55458c73352691
+Infected: Gandcrab.Ransomware
+
+Scanning: E:\Xcluded\Samples\b9172854d0b041f4a590e2f74011d8e6
+Infected: Troj/Keygen-DX
+
+Scanning: E:\Xcluded\Samples\93eda363418f498da44bc8c36c25cae0
+Infected: Adware.MAC.OSX.Genieo.BU
+
+Scanning: E:\Xcluded\Samples\e7162e735a5a44068fb926f23e1add0a
+Infected: Adware.WProtManager.Win32.21
+
+Scanning: E:\Xcluded\Samples\ad9fdf21fe214c1d9caa53abae39c5ab
+Infected: Malware@#24l1bmprvk8x
+
+Scanning: E:\Xcluded\Samples\aeb628c1eaae4c4890628cfe53c94386
+Infected: Adware/Agent.lmx	
+
+Scanning: E:\Xcluded\Samples\7b00d8403e8846b185910abb20ed3824
+Infected: Application.Agent.HN
+
+Scanning: E:\Xcluded\Samples\46f17ff21c2e41079737b189adfd6c66
+Infected: Trojan.DR.Diple.Gen.4
+
+Scanning: E:\Xcluded\Samples\eea71f75f5c943caadff8611ee824872
+Infected: Adware.MAC.OSX.Genieo.BU
+
+Scanning: E:\Xcluded\Samples\0454a9cd44c9453e8915aa6cd75567ec
+Infected: Adware.WProtManager.Win32.21
+
+Scanning: E:\Xcluded\Samples\ed97cb788199467d971e640ac26c5242
+Infected: Trojan.Miner.ZZ2
+
+Scanning: E:\Xcluded\Samples\b0a02ab3cf314e49ad9e979396f95bff
+Infected: Win.Adware.SupTab
+
+Scanning: E:\Xcluded\Samples\1b0a6f82a2534fb79c1e74bf96ff90d2
+Infected: JS/Exploit-Blacole.jf
+
+Scanning: E:\Xcluded\Samples\e394437418424da0981efbc530e5782b
+Infected: Trojan/Win32.Agent
+
+Scanning: E:\Xcluded\Samples\b96572f5874b4af3ad6e1f471456ee55
+Infected: Adware.Suptab.Aq	
+
+Scanning: E:\Xcluded\Samples\37b40fb8242e4862b0cc9f397d0e2179
+Infected: TR/Winsecsrv.Gen
+
+Scanning: E:\Xcluded\Samples\cc45270ec34042ffa5ec7d0918bb4958
+Infected: Adware.SearchProtect.ky.tmre
+
+Scanning: E:\Xcluded\Samples\c56ea570fdf940b7a848df7cbc09e119
+Infected: Adware.MAC.OSX.Genieo.BU
+
+Scanning: E:\Xcluded\Samples\d08a964809a74eddb762bb4162aa5a0c
+Infected: Trojan.GenericKD.30788163 (B)
+
+Scanning: E:\Xcluded\Samples\68ff5b4a7b9146899cf135cc6b6e2713
+Infected: Gandcrab.Ransomware
+
+Scanning: E:\Xcluded\Samples\9d892b52cf2e409994114ec84c3eedb0
+Infected: Trojan.GenericKD.30788163
+
+Scanning: E:\Xcluded\Samples\4c9fe903c0f84aae92c1fe7f7dc6237e
+Infected: PUP.Win32.MindSpark.F
+
+Scanning: E:\Xcluded\Samples\d12a16682eee460582ba81b93a61d7d5
+Infected: JS/Exploit-Blacole.jf
+
+Scanning: E:\Xcluded\Samples\23c64379a9a0484e8488056e8a0aed59
+Infected: ADWARE/InstallRex.Q
+
+Scanning: E:\Xcluded\Samples\ad3826903850400ea3450c672280790a
+Infected: Riskware.Win32.FunWeb.dbxkle
+
+Scanning: E:\Xcluded\Samples\ba97100c69a24796afd9a60de3477e71
+Infected: Trojan.Miner.ZZ2
+
+Scanning: E:\Xcluded\Samples\44721b81700f48a39ddbf6ca6f46e245
+Infected: Trojan.DR.Diple.Gen.4
+
+Scanning: E:\Xcluded\Samples\b273eeef05b14909ad5ccee055b8d32e
+Infected: ADWARE/Adware.Gen
+
+Scanning: E:\Xcluded\Samples\547b5394108248a18f2d4e12e0329da7
+Infected: Trojan.GenericKD.30788163
+
+Scanning: E:\Xcluded\Samples\d771350fed91497cb06edccd9249702c
+Infected: PUP.Win32.MindSpark.F
+
+Scanning: E:\Xcluded\Samples\e56dd15144444458803f415c332d7cff
+Infected: virus_nameAdWare.Agent
+
+Scanning: E:\Xcluded\Samples\27ae72ec28254e5190bf429653183301
+Infected: Troj/Keygen-DX
+
+Scanning: E:\Xcluded\Samples\95610e248b044dd78cfa1edcd61ed7fb
+Infected: ADWARE/InstallRex.Q
+
+Scanning: E:\Xcluded\Samples\89ed9af67cde4929bfc27849bf846f64
+Infected: Win.Adware.SupTab
+
+Scanning: E:\Xcluded\Samples\64e4fda19ca04959a0a23eb1047d5910
+Infected: ADWARE/InstallRex.Q
+
+Scanning: E:\Xcluded\Samples\77f59a1d78c442dfb7f7c990efad7627
+Infected: Gandcrab.Ransomware
+
+Scanning: E:\Xcluded\Samples\3377106db9444f95b309860333b0a2b7
+Infected: Trojan.GenericKD.30788163
+
+Scanning: E:\Xcluded\Samples\364ee2b6d6c54a2d831b02e29a00fd65
+Infected: Win32/Expiro4.Gen
+
+Scanning: E:\Xcluded\Samples\d5747f1528b9413f90818b1156a7fb6e
+Infected: PUP.Win32.MindSpark.F
+
+Scanning: E:\Xcluded\Samples\e28b73a91ce4432bad0436ca0df494e9
+Infected: W64/Trojan.ZEDZ-3398
+
+Scanning: E:\Xcluded\Samples\097cd5529c2f47ffbbef93e4984b9965
+Infected: Adware.SearchProtect.2
+
+Scanning: E:\Xcluded\Samples\84ef97c60a884e3c864d5aab96e61c91
+Infected: JS/Exploit-Blacole.jf
+
+Scanning: E:\Xcluded\Samples\e269c96cf1b246768ae2ce9f12d8a657
+Infected: Adware.Win32.Agent
+
+Scanning: E:\Xcluded\Samples\499a7aafa6f54f9aa193fc08e69bc1fe
+Infected: Trojan-PWS.Win32.Kykymber
+
+Scanning: E:\Xcluded\Samples\10b806b6d189458a83f9d345114f9de5
+Infected: Win32.Madang.C
+
+Scanning: E:\Xcluded\Samples\d8484ed7bfe9440aaa0da93d0b5f878b
+Infected: Virus/Win32.Nimnul.a
+
+Scanning: E:\Xcluded\Samples\51cadbd7fbc74ad999a6f8cd8bfbf2d7
+Infected: Adware/Agent.lmx	
+
+Scanning: E:\Xcluded\Samples\8d7a2e270cc34dfa845c2f5d16a7f7ac
+Infected: W64/Trojan.ZEDZ-3398
+
+Scanning: E:\Xcluded\Samples\7b5b022505ec4791ab1e6ecf0e3ecee4
+Infected: Win.Adware.SupTab
+
+Scanning: E:\Xcluded\Samples\6138238fec854847b3d4ccab10f3ade6
+Infected: Trojan/Win32.Agent
+
+Scanning: E:\Xcluded\Samples\b3f2e814468a47ceb91c6beeb96761a6
+Infected: Win32/Expiro4.Gen
+
+Scanning: E:\Xcluded\Samples\4fe2372972ee4f9c8c94670d19c2d05c
+Infected: Adware.SearchProtect.ky.tmre
+
+Scanning: E:\Xcluded\Samples\88616175af794ffb9f45f3662f916788
+Infected: Win32.Madang.C
+
+Scanning: E:\Xcluded\Samples\560bee072df54f66a1026c48b2c81136
+Infected: TR/Winsecsrv.Gen
+
+Scanning: E:\Xcluded\Samples\e60db108dfd04b668dbbeeede4bfe5ef
+Infected: Virus/Win32.Nimnul.a
+
+Scanning: E:\Xcluded\Samples\634c60e4bbd74d969ba1ffcef06e038d
+Infected: Script/Exploit.Kit
+
+Scanning: E:\Xcluded\Samples\3ce4bc771fe440bf9134c1fad95e47ea
+Infected: Win.Adware.SupTab
+
+Scanning: E:\Xcluded\Samples\9a8c76f7673643579a7a27b7ae68d9cd
+Infected: Trojan.Mauvasie
+
+Scanning: E:\Xcluded\Samples\b83209d08a8c417a8a597bd951edd7c4
+Infected: Trojan/Win32.Bladabindi
+
+Scanning: E:\Xcluded\Samples\9c8686dfd9cd480386a4be5894386689
+Infected: Trojan.ADRD
+
+Scanning: E:\Xcluded\Samples\4e3ac00e119145ad90505a74d5e96c8d
+Infected: Riskware.Win32.FunWeb.dbxkle
+
+Scanning: E:\Xcluded\Samples\3a02fb3e7ef74f01bf6224f7aa5333df
+Infected: Adware.SearchProtect.ky.tmre
+
+Scanning: E:\Xcluded\Samples\0687c230b00f4692812351fe7e1c3e24
+Infected: Script/Exploit.Kit
+
+Scanning: E:\Xcluded\Samples\43fe9240c1ec4c6eb97c9b161bf5e437
+Infected: Gandcrab.Ransomware
+
+Scanning: E:\Xcluded\Samples\b1db98d0b21344ddb8b05219999c9de7
+Infected: Hacktool.IdleKMS.C.gfky
+
+Scanning: E:\Xcluded\Samples\d5fbbdeaecd34022a3541a160c325bac
+Infected: Adware/Agent.lmx	
+
+Scanning: E:\Xcluded\Samples\04a3dabfe5ea4d49bda08ad9b23fb424
+Infected: Gandcrab.Ransomware
+
+Scanning: E:\Xcluded\Samples\e20c0b109b5340738c6a9d1f84154248
+Infected: Win32/Expiro4.Gen
+
+Scanning: E:\Xcluded\Samples\756d6c33df024dd4b5516598f6bfcb8e
+Infected: MyPCBackup.E.foha
+
+Scanning: E:\Xcluded\Samples\eefab2e932f14da09c44e628162b581c
+Infected: Adware.SearchProtect.2
+
+Scanning: E:\Xcluded\Samples\9af8552c336443c69e858f2037b64c61
+Infected: Trojan-PWS.Win32.Kykymber
+
+Scanning: E:\Xcluded\Samples\30d53d8a33e44f67a9cf40684aa3751e
+Infected: TR/Winsecsrv.Gen
+
+Scanning: E:\Xcluded\Samples\9f7cd5e004f44de79c37af8c9bf11bd4
+Infected: Malware@#24l1bmprvk8x
+
+Scanning: E:\Xcluded\Samples\c54b079ebd22409cba2da235d5f93ba2
+Infected: MyPCBackup.E.foha
+
+Scanning: E:\Xcluded\Samples\0a1f27154f6a4bafaa6b3a031b5b3153
+Infected: Trojan.Mauvasie
+
+Scanning: E:\Xcluded\Samples\5eb947cc3ab8487fa8e34d0be7e7be71
+Infected: PUP.Win32.MindSpark.F
+
+Scanning: E:\Xcluded\Samples\2f58c85cd813427d99f0c364f3e9687e
+Infected: Riskware/MyWebSearch
+
+Scanning: E:\Xcluded\Samples\deb36ae8dc864f49a53368bf3ff0806a
+Infected: Adware.WProtManager.Win32.21
+
+Scanning: E:\Xcluded\Samples\fb583f95225c42928e7d209e2493769d
+Infected: virus_nameAdWare.Agent
+
+Scanning: E:\Xcluded\Samples\0a87afa3be7541a6b4331504fb723fcd
+Infected: Gandcrab.Ransomware
+
+Scanning: E:\Xcluded\Samples\801028ac05da44b1a2035a9c5b6e1477
+Infected: Script/Exploit.Kit
+
+Scanning: E:\Xcluded\Samples\c5592249c42a4314a4874672133d7b43
+Infected: Win32/Expiro4.Gen
+
+Scanning: E:\Xcluded\Samples\ec6cab310757498aa94c45bb4b5e7302
+Infected: Adware.Win32.Agent
+
+Scanning: E:\Xcluded\Samples\7be71c3491c9421cbea70d63fd2472c6
+Infected: W64/Trojan.ZEDZ-3398
+
+Scanning: E:\Xcluded\Samples\de2b56c0bd574a4abbf5f33c661a82a1
+Infected: Riskware.Win32.FunWeb.dbxkle
+
+Scanning: E:\Xcluded\Samples\dc44c97144fb46beb72cd239614ce979
+Infected: Trojan.Miner.ZZ2
+
+Scanning: E:\Xcluded\Samples\ce43e4719ae042be8b242ccb8ec29730
+Infected: ADWARE/InstallRex.Q
+
+Scanning: E:\Xcluded\Samples\0d117f55ea784ccd98b6f36e8b2e9323
+Infected: virus_nameAdWare.Agent
+
+Scanning: E:\Xcluded\Samples\d0c4d5bc62ad491f920e81e1c6436124
+Infected: Adware.WProtManager.Win32.21
+
+Scanning: E:\Xcluded\Samples\065b756d21ce4363a3baf98cb55b1320
+Infected: ADWARE/Adware.Gen
+
+Scanning: E:\Xcluded\Samples\094afae6405c441f82efe3d62ff92801
+Infected: Application.Agent.HN
+
+Scanning: E:\Xcluded\Samples\db034b2ee0cd4c03b3277e29300ac4ea
+Infected: Trojan.Miner.ZZ2
+
+Scanning: E:\Xcluded\Samples\b904683894fe4b8abb88be544693448a
+Infected: Troj/Keygen-DX
+
+Scanning: E:\Xcluded\Samples\c740170042fd4530a0c60fcc323aa089
+Infected: Trojan.GenericKD.30788163 (B)
+
+Scanning: E:\Xcluded\Samples\e30e26416b254f0f98ccf756a916c701
+Infected: Adware.Win32.Agent
+
+Scanning: E:\Xcluded\Samples\2ac9bccf88fd4175b0590ffb8ce6c542
+Infected: virus_nameAdWare.Agent
+
+Scanning: E:\Xcluded\Samples\b16f428d007b4fd3816e4da6fcbe8efd
+Infected: W64/Trojan.ZEDZ-3398
+
+Scanning: E:\Xcluded\Samples\6f15f010ef0b48219ea11cf90a593c21
+Infected: Adware/Agent.lmx	
+
+Scanning: E:\Xcluded\Samples\92c0088c12684415a68d45d7e7179126
+Infected: Trojan.GenericKD.30788163 (B)
+
+Scanning: E:\Xcluded\Samples\d903c167c7a8486d9eb6ab30a8036315
+Infected: Trojan.GenericKD.30788163 (B)
+
+Scanning: E:\Xcluded\Samples\b2acd1f50f864554965ec216517c0003
+Infected: MyPCBackup.E.foha
+
+Scanning: E:\Xcluded\Samples\7777d9408dac4965a879f00b11220c4f
+Infected: Script/Exploit.Kit
+
+Scanning: E:\Xcluded\Samples\34876b15a28449e3a89a7cf3c4cda1aa
+Infected: Trojan.ADRD
+
+Scanning: E:\Xcluded\Samples\77f6bc2f5bb549319aeca3eb3fd18e76
+Infected: Trojan.GenericKD.30788163 (B)
+
+Scanning: E:\Xcluded\Samples\f0cc470880914f3495093ff4d868214a
+Infected: Adware/Agent.lmx	
+
+Scanning: E:\Xcluded\Samples\790f945f6d9545b7b6a7d0f8559cac5c
+Infected: Hacktool.IdleKMS.C.gfky
+
+Scanning: E:\Xcluded\Samples\4ae4a654217040ecb00a6e4bd6194a2f
+Infected: Malware@#24l1bmprvk8x
+
+Scanning: E:\Xcluded\Samples\37506d214b1649febee9e55af92ffca7
+Infected: Trojan.GenericKD.30788163
+
+Scanning: E:\Xcluded\Samples\368caf1a552346c992e91fa4e8fdc4db
+Infected: Gandcrab.Ransomware
+
+Scanning: E:\Xcluded\Samples\068d7ba992994fbe91e4c0f628612c04
+Infected: ADWARE/Adware.Gen
+
+Scanning: E:\Xcluded\Samples\8fe8ef2290b946d4b2ceabb3230c609a
+Infected: W64/Trojan.ZEDZ-3398
+
+Scanning: E:\Xcluded\Samples\776335c542d64b40890ffba6c5d139ec
+Infected: Adware.WProtManager.Win32.21
+
+Scanning: E:\Xcluded\Samples\ebbb3ce154d0496892be92043268954f
+Infected: Trojan.GenericKD.30788163
+
+Scanning: E:\Xcluded\Samples\16b1ef5ac1dc44dcbf090f2f1809ff26
+Infected: Trojan.GenericKD.30788163
+
+Scanning: E:\Xcluded\Samples\375afe35968f43749bc0ce0ee0e1ad87
+Infected: Adware.WProtManager.Win32.21
+
+Scanning: E:\Xcluded\Samples\a7b6e9b7a36d4cc19780d6eb5451e4bc
+Infected: Trojan.GenericKD.30788163
+
+Scanning: E:\Xcluded\Samples\d021a1196aef498b84d2467b319c06df
+Infected: Adware.MAC.OSX.Genieo.BU
+
+Scanning: E:\Xcluded\Samples\b184557f729846b9a5c5768256fe7d80
+Infected: Adware.Suptab.Aq	
+
+Scanning: E:\Xcluded\Samples\fa84b6975cc84a73834eab2e67578e18
+Infected: Win32/Expiro4.Gen
+
+Scanning: E:\Xcluded\Samples\b13198fd7cf5451dad196bff224739f6
+Infected: Riskware/MyWebSearch
+
+Scanning: E:\Xcluded\Samples\7325a6fc689b44c0af4f57ca08c29cb1
+Infected: TR/Winsecsrv.Gen
+
+Scanning: E:\Xcluded\Samples\0fa4e6b31c894e6ab00b27186841ba14
+Infected: Adware.SearchProtect.2
+
+Scanning: E:\Xcluded\Samples\2d27dee528a94438bb662f602fb6147f
+Infected: Troj/Keygen-DX
+
+Scanning: E:\Xcluded\Samples\4571398b6728468ba9253e7241f86bb8
+Infected: Adware.Suptab.Aq	
+
+Scanning: E:\Xcluded\Samples\cc37fd1c2a834365976fb3f88ddfbeb4
+Infected: Adware/Agent.lmx	
+
+Scanning: E:\Xcluded\Samples\026f9d631faf48bfb69059562463c613
+Infected: Skodna.Bundle.BD
+
+Scanning: E:\Xcluded\Samples\fc2fdbdd57624ef592904668f5784671
+Infected: virus_nameAdWare.Agent
+
+Scanning: E:\Xcluded\Samples\d3c7b022e3c741a58a766fcb24183901
+Infected: Application.Agent.HN
+
+Scanning: E:\Xcluded\Samples\607c2b786c6a4b84bcb2613552abe1c0
+Infected: Virus/Win32.Nimnul.a
+
+Scanning: E:\Xcluded\Samples\a4954cbc64f04d70b2a3ff2b5f6263de
+Infected: Trojan/Win32.Agent
+
+Scanning: E:\Xcluded\Samples\78e2b94712fd4d05afc56d6f7412b377
+Infected: Adware.SearchProtect.ky.tmre
+
+Scanning: E:\Xcluded\Samples\bec2a5f2d4314be2ae5d3f2963e66505
+Infected: Troj/Keygen-DX
+
+Scanning: E:\Xcluded\Samples\ae636ffe74f949659af2a91059fb6371
+Infected: Adware.SearchProtect.2
+
+Scanning: E:\Xcluded\Samples\ba1e548dbe3944849a8fc36d9211d3ba
+Infected: Hacktool.IdleKMS.C.gfky
+
+Scanning: E:\Xcluded\Samples\69cf47f1258a4b84b4616c0d8b2d6e1f
+Infected: Malware@#24l1bmprvk8x
+
+Scanning: E:\Xcluded\Samples\3b2482c01d054467a38de9d47b7aea63
+Infected: Malware@#24l1bmprvk8x
+
+Scanning: E:\Xcluded\Samples\22c0468c5e674885819be94e7d822f7f
+Infected: virus_nameAdWare.Agent
+
+Scanning: E:\Xcluded\Samples\086ec1b0c5bd46d2a4fde3bc6a502e23
+Infected: Adware.Win32.Agent
+
+Scanning: E:\Xcluded\Samples\1e5e7b8c013240c6b13566442058e0ad
+Infected: ADWARE/InstallRex.Q
+
+Scanning: E:\Xcluded\Samples\65715dc745b447da9563852077dd015a
+Infected: Win.Adware.SupTab
+
+Scanning: E:\Xcluded\Samples\f247518f48d74920bd838d52d0fdb76a
+Infected: Trojan.ADRD
+
+Scanning: E:\Xcluded\Samples\af8185979ba54806ab3db070695983e5
+Infected: Trojan/Win32.Bladabindi
+
+Scanning: E:\Xcluded\Samples\d1c01835c6904652b14b8182b498940d
+Infected: Trojan/Win32.Agent
+
+Scanning: E:\Xcluded\Samples\b2e2e6a063d740a380a85146d34ba32b
+Infected: ADWARE/InstallRex.Q
+
+Scanning: E:\Xcluded\Samples\6c647336c661421fa07fbcdd7371564e
+Infected: Script/Exploit.Kit
+
+Scanning: E:\Xcluded\Samples\c9dcaa5306a047aeab0ecdc9fbd8ddaf
+Infected: Trojan.Mauvasie
+
+Scanning: E:\Xcluded\Samples\1dbac97e73e043ed8209423ee2cb2df0
+Infected: Trojan/Win32.SGeneric
+
+Scanning: E:\Xcluded\Samples\e5e59ce6a2eb4856a0580e2461f0cb2f
+Infected: Trojan.DR.Diple.Gen.4
+
+Scanning: E:\Xcluded\Samples\c860e5d7a4974e5aab543fb6ef3ff411
+Infected: Troj/Keygen-DX
+
+Scanning: E:\Xcluded\Samples\7747a62308d14630b783612e73c7217a
+Infected: MyPCBackup.E.foha
+
+Scanning: E:\Xcluded\Samples\861ddc6c66ba4b0597223a48b19cdc8f
+Infected: Malware@#24l1bmprvk8x
+
+Scanning: E:\Xcluded\Samples\4beced5a05464d7e94a577faeab5b2fb
+Infected: PUP.Win32.MindSpark.F
+
+Scanning: E:\Xcluded\Samples\9965fcdd2f4c42709aa2d977bcaf2775
+Infected: Win.Adware.SupTab
+
+Scanning: E:\Xcluded\Samples\8c38c8a495154f489102696e3d6e2ff4
+Infected: Virus/Win32.Nimnul.a
+
+Scanning: E:\Xcluded\Samples\9fa06ea0e4b048a894849817bda81b86
+Infected: Application.Agent.HN
+
+Scanning: E:\Xcluded\Samples\6cfd686d4d1841229ca7159fe11a69d8
+Infected: Trojan/Win32.Agent
+
+Scanning: E:\Xcluded\Samples\dd4ea8666cc04a0cbbc5016c45d91cab
+Infected: Trojan.GenericKD.30788163
+
+Scanning: E:\Xcluded\Samples\b5cff8a07dbc4d33aa2372b410d59011
+Infected: Win.Adware.SupTab
+
+Scanning: E:\Xcluded\Samples\7f8988c8f9504c8da2e60b0a147013f5
+Infected: Trojan/Win32.SGeneric
+
+Scanning: E:\Xcluded\Samples\7744cbf5b14d473c9fe786af1f55ba95
+Infected: Malware@#24l1bmprvk8x
+
+Scanning: E:\Xcluded\Samples\a178d4d96f6e42f8a2141db2a4dfbba7
+Infected: Riskware.Win32.FunWeb.dbxkle
+
+Scanning: E:\Xcluded\Samples\acf77ef81b9f48a7b674af8601c1d558
+Infected: Win32/Expiro4.Gen
+
+Scanning: E:\Xcluded\Samples\61b9ea9cd5c3420eb62a5ac03c84d4a5
+Infected: virus_nameAdWare.Agent
+
+Scanning: E:\Xcluded\Samples\b7fd258e630d4cfca19bbf84151b012c
+Infected: ADWARE/Adware.Gen
+
+Scanning: E:\Xcluded\Samples\4f1c6427a20f4a849a74d30d06dc7bf6
+Infected: Adware.WProtManager.Win32.21
+
+Scanning: E:\Xcluded\Samples\da30861e8f894e92be46df58acb548ff
+Infected: Malware@#24l1bmprvk8x
+
+Scanning: E:\Xcluded\Samples\28a1e128df444c5cbd64aff2e13a59ed
+Infected: Trojan.GenericKD.30788163 (B)
+
+Scanning: E:\Xcluded\Samples\4427477203164940ac895b4e4d5074ca
+Infected: Hacktool.IdleKMS.C.gfky
+
+Scanning: E:\Xcluded\Samples\6ff272bf02734a0ba3e20aaf6ec9ce6c
+Infected: Adware/Agent.lmx	
+
+Scanning: E:\Xcluded\Samples\548defb70a364dc5930c89bfa40571ae
+Infected: Adware.Suptab.Aq	
+
+Scanning: E:\Xcluded\Samples\88cc27dda0704168bdebc65ae839cfdc
+Infected: Adware.Win32.Agent
+
+Scanning: E:\Xcluded\Samples\5a83b84815824ac8868c2b23d2dcae02
+Infected: Win32.Madang.C
+
+Scanning: E:\Xcluded\Samples\35390c04d26c40b3b5c20c9e8f3078a8
+Infected: Trojan.DR.Diple.Gen.4
+
+Scanning: E:\Xcluded\Samples\8e6e1b33fdb84a019c8eaa65324ef27c
+Infected: TR/Winsecsrv.Gen
+
+Scanning: E:\Xcluded\Samples\ab820c2ab0ce4f9a91d15e5933bf9b16
+Infected: Win32.Madang.C
+
+Scanning: E:\Xcluded\Samples\28c153ed967a43f9b8bef2388e1c26ce
+Infected: Adware.MAC.OSX.Genieo.BU
+
+Scanning: E:\Xcluded\Samples\ebdc53f0b0d24d5dba7d48d11a4e658c
+Infected: Adware.WProtManager.Win32.21
+
+Scanning: E:\Xcluded\Samples\6ff5547b528f4232b0632d079976d461
+Infected: Script/Exploit.Kit
+
+Scanning: E:\Xcluded\Samples\10038184330946eba75a8feaaceed832
+Infected: Trojan.GenericKD.30788163 (B)
+
+Scanning: E:\Xcluded\Samples\fa4dde4aa03a40068d551d65a73e95b2
+Infected: virus_nameAdWare.Agent
+
+Scanning: E:\Xcluded\Samples\a873a45f31b34f418af741cbf67c049f
+Infected: ADWARE/InstallRex.Q
+
+Scanning: E:\Xcluded\Samples\1614227a2a954a4e93a1dc74286fdcb3
+Infected: Trojan/Win32.SGeneric
+
+Scanning: E:\Xcluded\Samples\9da3b6d7060b40f18f6a466a29525c0a
+Infected: Win32.Madang.C
+
+Scanning: E:\Xcluded\Samples\f1462f08c00d43f89c6d0c9f00d9f093
+Infected: Trojan.Mauvasie
+
+Scanning: E:\Xcluded\Samples\2ead80abd5b24d7db3f4b1f41f632d9d
+Infected: Trojan.GenericKD.30788163
+
+Scanning: E:\Xcluded\Samples\f50f2dac8b344d7d8a4d154333004ee1
+Infected: Adware.SearchProtect.ky.tmre
+
+Scanning: E:\Xcluded\Samples\21e9daed6e1e44928b9f4e2442ee1f7e
+Infected: Adware.Suptab.Aq	
+
+Scanning: E:\Xcluded\Samples\2220b4f7b3d34dda9dd12b30fa105fb4
+Infected: Adware.WProtManager.Win32.21
+
+Scanning: E:\Xcluded\Samples\86de4b5ef61e4b3cbca914f0a32af937
+Infected: Win.Adware.SupTab
+
+Scanning: E:\Xcluded\Samples\41cdd899e19247379e71bd4de6d7e5ef
+Infected: Trojan-PWS.Win32.Kykymber
+
+Scanning: E:\Xcluded\Samples\7fe83ebfcd6744c7a010f05f2849c6bd
+Infected: Adware/Agent.lmx	
+
+Scanning: E:\Xcluded\Samples\1dc5ef04cee34cf0b6f8200d4892a62e
+Infected: Virus/Win32.Nimnul.a
+
+Scanning: E:\Xcluded\Samples\7e7386e76ac3404395989a65fa38cd4f
+Infected: Gandcrab.Ransomware
+
+Scanning: E:\Xcluded\Samples\02761b11fe3f418d812ce43c5e63e340
+Infected: Trojan.GenericKD.30788163 (B)
+
+Scanning: E:\Xcluded\Samples\e0d54b6d2cd44c8f8ef9f87c3bb9f2cd
+Infected: Hacktool.IdleKMS.C.gfky
+
+Scanning: E:\Xcluded\Samples\31df6ce766074ee1ad170658e911d59e
+Infected: Adware/Agent.lmx	
+
+Scanning: E:\Xcluded\Samples\1a6b5974a6224ca9bcfd077619c57bde
+Infected: TR/Winsecsrv.Gen
+
+Scanning: E:\Xcluded\Samples\60b9b3e09f4a4cd98bc9973f811092af
+Infected: Trojan.Miner.ZZ2
+
+Scanning: E:\Xcluded\Samples\41e43d5b60534262a6b4aebbaabd9092
+Infected: Adware.Suptab.Aq	
+
+Scanning: E:\Xcluded\Samples\3eddfbf0b200413bafba8379c5a86874
+Infected: Trojan/Win32.SGeneric
+
+Scanning: E:\Xcluded\Samples\423d9ee0a8ac4fd3979dde2b42490617
+Infected: W64/Trojan.ZEDZ-3398
+
+Scanning: E:\Xcluded\Samples\a056b2737abd4167b801a117bb382ba2
+Infected: Virus/Win32.Nimnul.a
+
+Scanning: E:\Xcluded\Samples\d99e903f7f8a418aa3018dcce33391d9
+Infected: PUP.Win32.MindSpark.F
+
+Scanning: E:\Xcluded\Samples\01f58b54883b4de687dd9925d99a034a
+Infected: Virus/Win32.Nimnul.a
+
+Scanning: E:\Xcluded\Samples\a803805a370d4edf8922253abfc091c9
+Infected: JS/Exploit-Blacole.jf
+
+Scanning: E:\Xcluded\Samples\045e9d5307a34419ab17eae0b1f84732
+Infected: Adware.MAC.OSX.Genieo.BU
+
+Scanning: E:\Xcluded\Samples\5ebd6dcb1c944483992eaaf04fae39d0
+Infected: Trojan.Mauvasie
+
+Scanning: E:\Xcluded\Samples\2e752af15ce34798a10d9486b589caf7
+Infected: Trojan.ADRD
+
+Scanning: E:\Xcluded\Samples\156921e309c8446caa458b0031517628
+Infected: Gandcrab.Ransomware
+
+Scanning: E:\Xcluded\Samples\d32aa1bd3eea4df5a35359d44f24e029
+Infected: PUP.Win32.MindSpark.F
+
+Scanning: E:\Xcluded\Samples\b9f1d9d09e714b1da5b528f3d7e93821
+Infected: Adware.SearchProtect.ky.tmre
+
+Scanning: E:\Xcluded\Samples\9175e3c298844745b06c9b308645f59d
+Infected: Riskware/MyWebSearch
+
+Scanning: E:\Xcluded\Samples\f0a8b88a51b14bce854fd88d227cc82d
+Infected: Adware.MAC.OSX.Genieo.BU
+
+Scanning: E:\Xcluded\Samples\b55becb40b7f417c9127c938b297a3aa
+Infected: Hacktool.IdleKMS.C.gfky
+
+Scanning: E:\Xcluded\Samples\e4d2f41eb1f94032bc430e55be4435f0
+Infected: Adware.Win32.Agent
+
+Scanning: E:\Xcluded\Samples\a70ca68e69884dbabfa9e9db112f0649
+Infected: TR/Winsecsrv.Gen
+
+Scanning: E:\Xcluded\Samples\0025839339644eed96fe7aa3fcb61cb9
+Infected: Adware.Win32.Agent
+
+Scanning: E:\Xcluded\Samples\4a34379c8325407788e2b439afe75ab0
+Infected: Win.Adware.SupTab
+
+Scanning: E:\Xcluded\Samples\18d53817a0ce416990e8c2d41503142b
+Infected: Trojan/Win32.SGeneric
+
+Scanning: E:\Xcluded\Samples\6ee0e22247384eca845cef9a559e9e1e
+Infected: Application.Agent.HN
+
+Scanning: E:\Xcluded\Samples\6b407a01aacf47e0ba59e711c51aa8fd
+Infected: Trojan.Miner.ZZ2
+
+Scanning: E:\Xcluded\Samples\88dfb826399c4fc8834ddf2eb985044b
+Infected: Trojan.GenericKD.30788163
+
+Scanning: E:\Xcluded\Samples\8f1de64d185341d3a66bd9881383c2ae
+Infected: Adware.MAC.OSX.Genieo.BU
+
+Scanning: E:\Xcluded\Samples\1389239b6ac74928bc96b07113943ebd
+Infected: Gandcrab.Ransomware
+
+Scanning: E:\Xcluded\Samples\326a2860e2df4705bce4a475ce1b8fc4
+Infected: ADWARE/InstallRex.Q
+
+Scanning: E:\Xcluded\Samples\04ddab4315534a6da932d9f786d6cb20
+Infected: Win32.Madang.C
+
+Scanning: E:\Xcluded\Samples\feb61be934514ef5846ae7a543870439
+Infected: Virus/Win32.Nimnul.a
+
+Scanning: E:\Xcluded\Samples\04581e8a7aa940e488db8f1b0c189af7
+Infected: Skodna.Bundle.BD
+
+Scanning: E:\Xcluded\Samples\7f73533b64734f568e4ae18af5c1c448
+Infected: Trojan.GenericKD.30788163 (B)
+
+Scanning: E:\Xcluded\Samples\3260e8cfe72d40a6ba48f27747c9c794
+Infected: Win32.Madang.C
+
+Scanning: E:\Xcluded\Samples\b69e31dd87e340a3abb58a1b528f71bd
+Infected: Riskware/MyWebSearch
+
+Scanning: E:\Xcluded\Samples\90e36c1286394e81a18479e49f188215
+Infected: Adware.Win32.Agent
+
+Scanning: E:\Xcluded\Samples\cc7d988eb8a940a1b5e1769aa67ddea8
+Infected: MyPCBackup.E.foha
+
+Scanning: E:\Xcluded\Samples\20068d56b348415a916b9a6c5dc7e3ca
+Infected: Win32/Expiro4.Gen
+
+Scanning: E:\Xcluded\Samples\d36a427acfaa49caaaa679cc38f76f45
+Infected: JS/Exploit-Blacole.jf
+
+Scanning: E:\Xcluded\Samples\7e193c7de22e4d03810539a51bbf9f11
+Infected: Adware.WProtManager.Win32.21
+
+Scanning: E:\Xcluded\Samples\96233bd6336145bd973b518bf65baf6e
+Infected: Adware.SearchProtect.ky.tmre
+
+Scanning: E:\Xcluded\Samples\7ac97a111e4a436eb639b48472fd428e
+Infected: Adware.Win32.Agent
+
+Scanning: E:\Xcluded\Samples\cd5b60ae9c674a82b1b02fbcac4d8314
+Infected: Win32.Madang.C
+
+Scanning: E:\Xcluded\Samples\38a11f9bea1d445f8e4481d2d4212c3e
+Infected: PUP.Win32.MindSpark.F
+
+Scanning: E:\Xcluded\Samples\c9dbeac9aae943ceb7581e89edb63d87
+Infected: Riskware.Win32.FunWeb.dbxkle
+
+Scanning: E:\Xcluded\Samples\98b8faa96f7b4c68815ce1e1f31e85b8
+Infected: Troj/Keygen-DX
+
+Scanning: E:\Xcluded\Samples\1c58788f0560477686ce6ece299bdedb
+Infected: Trojan.DR.Diple.Gen.4
+
+Scanning: E:\Xcluded\Samples\5349ac865cfb48f3bb8a75234fcc0c4c
+Infected: ADWARE/InstallRex.Q
+
+Scanning: E:\Xcluded\Samples\0d98110ee854405794f41e1103941ebc
+Infected: Trojan.Miner.ZZ2
+
+Scanning: E:\Xcluded\Samples\7fae427b5a374ea584ff3cd505bc8d2e
+Infected: Hacktool.IdleKMS.C.gfky
+
+Scanning: E:\Xcluded\Samples\edf28c60212745b4afbeb82bea9e1409
+Infected: Troj/Keygen-DX
+
+Scanning: E:\Xcluded\Samples\d2fd94da883143db8032f32020c45884
+Infected: ADWARE/Adware.Gen
+
+Scanning: E:\Xcluded\Samples\f916f290a4974c329cbc8f4e1cf40701
+Infected: Trojan.ADRD
+
+Scanning: E:\Xcluded\Samples\397a4da4e0a34173a85ab4a47f56163d
+Infected: Trojan-PWS.Win32.Kykymber
+
+Scanning: E:\Xcluded\Samples\a6542b4019184283a9d351caa2aad902
+Infected: MyPCBackup.E.foha
+
+Scanning: E:\Xcluded\Samples\c43906cfbf90425a83ee7181281ebf80
+Infected: Win.Adware.SupTab
+
+Scanning: E:\Xcluded\Samples\c015be35b19c4160b8af8e5afb31d8e6
+Infected: Adware.Suptab.Aq	
+
+Scanning: E:\Xcluded\Samples\5c0d7b6bde47410c8fca53feccff2565
+Infected: Win32.Madang.C
+
+Scanning: E:\Xcluded\Samples\b0597802e2a0464eb5b1b35187725c2e
+Infected: Riskware/MyWebSearch
+
+Scanning: E:\Xcluded\Samples\23ecefe8041b496ab1308872c2a3c5a1
+Infected: Trojan-PWS.Win32.Kykymber
+
+Scanning: E:\Xcluded\Samples\62a8a65008bc4a0b92b9112713df33aa
+Infected: Adware.SearchProtect.ky.tmre
+
+Scanning: E:\Xcluded\Samples\5dd6471a717149caaa575769708a2943
+Infected: Virus/Win32.Nimnul.a
+
+Scanning: E:\Xcluded\Samples\241924b224da407b99ca1e79ba88c0c2
+Infected: Script/Exploit.Kit
+
+Scanning: E:\Xcluded\Samples\b56ae1ed30b74031a19b90bc2cf12293
+Infected: Trojan.GenericKD.30788163 (B)
+
+Scanning: E:\Xcluded\Samples\82253ae5a6834fc4a6bbe61deb36fd98
+Infected: Trojan/Win32.Agent
+
+Scanning: E:\Xcluded\Samples\10dc97e3ee1c470a83019ab1395ac40e
+Infected: Win32/Expiro4.Gen
+
+Scanning: E:\Xcluded\Samples\8978a18571e448319f3dfd32ee939a42
+Infected: Adware.MAC.OSX.Genieo.BU
+
+Scanning: E:\Xcluded\Samples\5e1edd8d97874dc7b97d059051a5328a
+Infected: Trojan.ADRD
+
+Scanning: E:\Xcluded\Samples\869e8105c4924e54a3a5dba9895902f1
+Infected: Skodna.Bundle.BD
+
+Scanning: E:\Xcluded\Samples\771fac6c39ea4947b52ae5351c2b5399
+Infected: Virus/Win32.Nimnul.a
+
+Scanning: E:\Xcluded\Samples\e505c6c072624d7d839d81686fde787b
+Infected: W64/Trojan.ZEDZ-3398
+
+Scanning: E:\Xcluded\Samples\2abbc2bde7924a7289de52c4e0bba28e
+Infected: JS/Exploit-Blacole.jf
+
+Scanning: E:\Xcluded\Samples\70d3b29437fd45d1b1a735bfd9452524
+Infected: Application.Agent.HN
+
+Scanning: E:\Xcluded\Samples\28954c937f0d433eb65a46b763af201b
+Infected: Adware.Win32.Agent
+
+Scanning: E:\Xcluded\Samples\f8153ba3776f4755a848fc9611becd75
+Infected: Adware.WProtManager.Win32.21
+
+Scanning: E:\Xcluded\Samples\ba0753896c5247faa173c55c9fa6d7a9
+Infected: PUP.Win32.MindSpark.F
+
+Scanning: E:\Xcluded\Samples\13dfeb2142cb41058d06043041970136
+Infected: Adware.SearchProtect.ky.tmre
+
+Scanning: E:\Xcluded\Samples\9cbc7d0670fa4e638a5dac635a76c962
+Infected: ADWARE/InstallRex.Q
+
+Scanning: E:\Xcluded\Samples\b1f0e7ad57614db2a2d2302b1c53b70b
+Infected: Trojan.Miner.ZZ2
+
+Scanning: E:\Xcluded\Samples\a32d2a8419924a2895eb420a40a26557
+Infected: PUP.Win32.MindSpark.F
+
+Scanning: E:\Xcluded\Samples\63bb200bfadf46c88ada5e1ecfa2eb84
+Infected: Adware.Win32.Agent
+
+Scanning: E:\Xcluded\Samples\26b98890852849e198ce161043de09ea
+Infected: virus_nameAdWare.Agent
+
+Scanning: E:\Xcluded\Samples\81f42cc1808940968b3b0c8d73d62688
+Infected: W64/Trojan.ZEDZ-3398
+
+Scanning: E:\Xcluded\Samples\c256ea730301451eae2193c838ebb5fb
+Infected: Trojan.ADRD
+
+Scanning: E:\Xcluded\Samples\aced5d96d5924beb836292ddf86b9ae1
+Infected: JS/Exploit-Blacole.jf
+
+Scanning: E:\Xcluded\Samples\ec04178f037b4a98875c7cfa8675e423
+Infected: Adware.Win32.Agent
+
+Scanning: E:\Xcluded\Samples\9b232a6612fb4d61a666f9bf63159090
+Infected: Win32/Expiro4.Gen
+
+Scanning: E:\Xcluded\Samples\a35a048551fb495185aa73abe8b3ac69
+Infected: Trojan/Win32.Bladabindi
+
+Scanning: E:\Xcluded\Samples\7bfc0fff353d4d16840b44fe69f54580
+Infected: Trojan.Miner.ZZ2
+
+Scanning: E:\Xcluded\Samples\b24a57a46c35449a925bf652fac29e26
+Infected: ADWARE/Adware.Gen
+
+Scanning: E:\Xcluded\Samples\9dfbd8785f984a3faa108c2c81172bf6
+Infected: Riskware/MyWebSearch
+
+Scanning: E:\Xcluded\Samples\21a350257eab43968e226410d587e58d
+Infected: Hacktool.IdleKMS.C.gfky
+
+Scanning: E:\Xcluded\Samples\a165b82e125845dea13ea4c75a638d21
+Infected: Script/Exploit.Kit
+
+Scanning: E:\Xcluded\Samples\c3fd3f4625634884a0c0f471d54bf922
+Infected: W64/Trojan.ZEDZ-3398
+
+Scanning: E:\Xcluded\Samples\2592232c5b1c443e83741ec219f0fc67
+Infected: ADWARE/Adware.Gen
+
+Scanning: E:\Xcluded\Samples\e48865d870a64ebf8ca953a0cd876389
+Infected: Riskware.Win32.FunWeb.dbxkle
+
+Scanning: E:\Xcluded\Samples\73748c5f064740d1aec2b9471dc822a8
+Infected: Hacktool.IdleKMS.C.gfky
+
+Scanning: E:\Xcluded\Samples\75daab455746447aa32cb14f42cf1362
+Infected: Trojan.Miner.ZZ2
+
+Scanning: E:\Xcluded\Samples\0647f52403b142d48095b728d05f5a03
+Infected: JS/Exploit-Blacole.jf
+
+Scanning: E:\Xcluded\Samples\553b44a0532e4c99abd3bfcd2de8486e
+Infected: Troj/Keygen-DX
+
+Scanning: E:\Xcluded\Samples\a7581514715a49e5afe8aa3b31357f41
+Infected: JS/Exploit-Blacole.jf
+
+Scanning: E:\Xcluded\Samples\11a90371dd9e4be6a6f46d401059099b
+Infected: W64/Trojan.ZEDZ-3398
+
+Scanning: E:\Xcluded\Samples\653f04337e9d4e74bdb5de0a5d008922
+Infected: ADWARE/Adware.Gen
+
+Scanning: E:\Xcluded\Samples\93b6e95c5a194c8590b552938022e2ce
+Infected: Adware.Win32.Agent
+
+Scanning: E:\Xcluded\Samples\685f7d58cfa84f9d914b29a077dcbe87
+Infected: Trojan.ADRD
+
+Scanning: E:\Xcluded\Samples\ed0825f57b7343d4814825baea40bccd
+Infected: Riskware.Win32.FunWeb.dbxkle
+
+Scanning: E:\Xcluded\Samples\c3e74438f9344f90ae5fc6e4e084c228
+Infected: Trojan/Win32.Bladabindi
+
+Scanning: E:\Xcluded\Samples\075630f8ccf74ff082336cfca94aaeb2
+Infected: Trojan-PWS.Win32.Kykymber
+
+Scanning: E:\Xcluded\Samples\5608a5df62064331820bb8a3d09acd19
+Infected: Win32.Madang.C
+
+Scanning: E:\Xcluded\Samples\7af221920497458caab141b05bc4a895
+Infected: Win32/Expiro4.Gen
+
+Scanning: E:\Xcluded\Samples\085244d671574a6eaca9f325e4bdcf0f
+Infected: TR/Winsecsrv.Gen
+
+Scanning: E:\Xcluded\Samples\cb215aa670b640d9a5a1c7183147e32e
+Infected: W64/Trojan.ZEDZ-3398
+
+Scanning: E:\Xcluded\Samples\2fbb1075a5ae45c6a43a73a5d5e81f23
+Infected: Trojan-PWS.Win32.Kykymber
+
+Scanning: E:\Xcluded\Samples\9ab3c76f838d4407a61c65dc220f6866
+Infected: Trojan/Win32.Agent
+
+Scanning: E:\Xcluded\Samples\5baba6907f62471198864791c0bd42df
+Infected: Trojan.DR.Diple.Gen.4
+
+Scanning: E:\Xcluded\Samples\36a2dc05df0f47fbba9bdcaad7a4fb9b
+Infected: Script/Exploit.Kit
+
+Scanning: E:\Xcluded\Samples\c5f21d4321174208bb4fc856ecb9941f
+Infected: Adware.SearchProtect.ky.tmre
+
+Scanning: E:\Xcluded\Samples\d886a2117a434d878a840a02c3395ea5
+Infected: Riskware/MyWebSearch
+
+Scanning: E:\Xcluded\Samples\33ecd23a8a2a44da8210a2d53fe4b2dd
+Infected: Win32/Expiro4.Gen
+
+Scanning: E:\Xcluded\Samples\322a6ae9b1f742dd9b9a18bbc4b13839
+Infected: ADWARE/Adware.Gen
+
+Scanning: E:\Xcluded\Samples\5cfa6b1045cf4c3696b773e6f18942f8
+Infected: Adware.Win32.Agent
+
+Scanning: E:\Xcluded\Samples\7dcfc739fecb4df8a23b0d0468a69ecd
+Infected: Win32/Expiro4.Gen
+
+Scanning: E:\Xcluded\Samples\9c7463eb4f64401a9204d6ca1db36c86
+Infected: Adware.Win32.Agent
+
+Scanning: E:\Xcluded\Samples\ed4efd86423d4db587d01e7276293f2f
+Infected: Trojan/Win32.Bladabindi
+
+Scanning: E:\Xcluded\Samples\82ab7034a3874d68ae7b9ea8328f382b
+Infected: Win32/Expiro4.Gen
+
+Scanning: E:\Xcluded\Samples\304c7cc2ee3845728eea35b28fcfad7a
+Infected: Trojan.DR.Diple.Gen.4
+
+Scanning: E:\Xcluded\Samples\2ab562bca08945f6882b5f4006c67ddd
+Infected: Trojan.DR.Diple.Gen.4
+
+Scanning: E:\Xcluded\Samples\8da1aeb510584c2f9cfba3bec28397a3
+Infected: Malware@#24l1bmprvk8x
+
+Scanning: E:\Xcluded\Samples\367131772f754306a2e774415705d851
+Infected: Riskware/MyWebSearch
+
+Scanning: E:\Xcluded\Samples\3da24f6cbe4045ff8d8168f904c16b13
+Infected: Adware/Agent.lmx	
+
+Scanning: E:\Xcluded\Samples\318516b044ab4e7eabec0d9c2dd4fa40
+Infected: Adware.Suptab.Aq	
+
+Scanning: E:\Xcluded\Samples\56e19bcb9791430b97e2ab137f33bbdf
+Infected: Troj/Keygen-DX
+
+Scanning: E:\Xcluded\Samples\6fb55b76e8864f99a1d34904ef0e3aef
+Infected: Trojan.Miner.ZZ2
+
+Scanning: E:\Xcluded\Samples\1e0b71fbc81742e6a129fa1a1a58f222
+Infected: Win32.Madang.C
+
+Scanning: E:\Xcluded\Samples\0275a60dbf7a427497609370a35720fc
+Infected: Malware@#24l1bmprvk8x
+
+Scanning: E:\Xcluded\Samples\6a591d2dd1af452abd756c561ddb5a13
+Infected: Adware.Suptab.Aq	
+
+Scanning: E:\Xcluded\Samples\3dff209540c649efa0bc034d56275296
+Infected: Adware.Suptab.Aq	
+
+Scanning: E:\Xcluded\Samples\5857c691209e46d5b96ab2068ec559ac
+Infected: JS/Exploit-Blacole.jf
+
+Scanning: E:\Xcluded\Samples\cc4d609940c949f28f0f987fd9a492a2
+Infected: Trojan.Mauvasie
+
+Scanning: E:\Xcluded\Samples\7fac55183ab04dfaa82d984ca0da2889
+Infected: Adware/Agent.lmx	
+
+Scanning: E:\Xcluded\Samples\3686184921954451be909e2bc26566f1
+Infected: ADWARE/Adware.Gen
+
+Scanning: E:\Xcluded\Samples\107be9b8bb0d4af4a0096ad5d4fd9f53
+Infected: Hacktool.IdleKMS.C.gfky
+
+Scanning: E:\Xcluded\Samples\1625db535e8c44c6b416819741333855
+Infected: Trojan.Mauvasie
+
+Scanning: E:\Xcluded\Samples\0d716be86d2547f79ef326fe08f155cc
+Infected: Trojan/Win32.SGeneric
+
+Scanning: E:\Xcluded\Samples\371edc8b47844a95ac6ea39c876e9255
+Infected: Win32/Expiro4.Gen
+
+Scanning: E:\Xcluded\Samples\d5887637726d4da4b6bd1e0896f6bd70
+Infected: TR/Winsecsrv.Gen
+
+Scanning: E:\Xcluded\Samples\f2315d58360341fb92a40b8c46a0ea0a
+Infected: W64/Trojan.ZEDZ-3398
+
+Scanning: E:\Xcluded\Samples\fa7ce21fc8424b24ba5a37b9ae27437d
+Infected: Adware.Suptab.Aq	
+
+Scanning: E:\Xcluded\Samples\d1b6472bf269449185a72c3ea9ae0692
+Infected: Trojan/Win32.Agent
+
+Scanning: E:\Xcluded\Samples\e79cc8f8d0f94e68a57b948f3d5191f3
+Infected: Adware/Agent.lmx	
+
+Scanning: E:\Xcluded\Samples\08563ef493b14e308312da632c907f1d
+Infected: Adware.MAC.OSX.Genieo.BU
+
+Scanning: E:\Xcluded\Samples\528353dd9027439cacb411024367caa1
+Infected: Trojan/Win32.Agent
+
+Scanning: E:\Xcluded\Samples\dc8223a38d8b4cc18a8737a98575200b
+Infected: virus_nameAdWare.Agent
+
+Scanning: E:\Xcluded\Samples\4e172cd0700b4c6da16b0569c25592fc
+Infected: Adware.WProtManager.Win32.21
+
+Scanning: E:\Xcluded\Samples\f7e0e100065a4969ace1dda273ca8a47
+Infected: Application.Agent.HN
+
+Scanning: E:\Xcluded\Samples\e29a3eb84aae46ccb464775e8cca0599
+Infected: PUP.Win32.MindSpark.F
+
+Scanning: E:\Xcluded\Samples\2d993acdd6394fca97c0e119e3ec72de
+Infected: Adware/Agent.lmx	
+
+Scanning: E:\Xcluded\Samples\ffe1c9ebee9c4b44a545165507bb90ea
+Infected: Troj/Keygen-DX
+
+Scanning: E:\Xcluded\Samples\2970ef9eb7fd432b8258ddd9a80b6210
+Infected: Trojan/Win32.Bladabindi
+
+Scanning: E:\Xcluded\Samples\9e29e1ca8cd24936844169444f2f3dd7
+Infected: Trojan.Mauvasie
+
+Scanning: E:\Xcluded\Samples\20d0dd46a8df4428abde6accbb3d6687
+Infected: Trojan.ADRD
+
+Scanning: E:\Xcluded\Samples\5e244fd587d64f1c81ee982b03e077e1
+Infected: Riskware/MyWebSearch
+
+Scanning: E:\Xcluded\Samples\fb6334efd4224e689366d5894676129f
+Infected: Adware.MAC.OSX.Genieo.BU
+
+Scanning: E:\Xcluded\Samples\2293aee674994fae85f2ecb3bfe3ab3f
+Infected: virus_nameAdWare.Agent
+
+Scanning: E:\Xcluded\Samples\5376324975a846e786c838be2d85c183
+Infected: Trojan/Win32.Bladabindi
+
+Scanning: E:\Xcluded\Samples\9b04d432ec3f4ea28ad70e413379121a
+Infected: PUP.Win32.MindSpark.F
+
+Scanning: E:\Xcluded\Samples\7674faf4fd284223992b61e92b4d0769
+Infected: Trojan/Win32.Agent
+
+Scanning: E:\Xcluded\Samples\0ed4ec7323684ac998caa86bd710bdbc
+Infected: Trojan/Win32.Bladabindi
+
+Scanning: E:\Xcluded\Samples\6494c43eb10849608ead6ef256bfbbbe
+Infected: Trojan.GenericKD.30788163 (B)
+
+Scanning: E:\Xcluded\Samples\ea098c44c3cb47278728da10534d9238
+Infected: Adware.WProtManager.Win32.21
+
+Scanning: E:\Xcluded\Samples\a7030e1379274da88144843ac0431d2d
+Infected: Win32/Expiro4.Gen
+
+Scanning: E:\Xcluded\Samples\d130d1a64d2443d3bc563f104750f09c
+Infected: Trojan/Win32.SGeneric
+
+Scanning: E:\Xcluded\Samples\a49b4f14f8b14990949509f980b8601b
+Infected: Trojan/Win32.Bladabindi
+
+Scanning: E:\Xcluded\Samples\eecc0f2d663445718e98ab1b25a9e00f
+Infected: Skodna.Bundle.BD
+
+Scanning: E:\Xcluded\Samples\65da2d1f1b984d1a9f154c70da2d8db5
+Infected: virus_nameAdWare.Agent
+
+Scanning: E:\Xcluded\Samples\c5f9c485f50c4cdd85edcdc543949166
+Infected: Trojan.ADRD
+
+Scanning: E:\Xcluded\Samples\cd39b8f05fd94b809e2347662fd1853d
+Infected: Adware.Suptab.Aq	
+
+Scanning: E:\Xcluded\Samples\f6070b4fdc9c4625999061312ae3dc24
+Infected: Gandcrab.Ransomware
+
+Scanning: E:\Xcluded\Samples\754e378319ae4f01aa7f9e1ff5fd4bf6
+Infected: Trojan.ADRD
+
+Scanning: E:\Xcluded\Samples\38429db65b5c448b82936bd52cd25c98
+Infected: Trojan/Win32.Agent
+
+Scanning: E:\Xcluded\Samples\86b2578d7ca94068b290a3b0cc2b9d2a
+Infected: Trojan.Mauvasie
+
+Scanning: E:\Xcluded\Samples\f237ab499415457eb920e9d9026dac55
+Infected: Gandcrab.Ransomware
+
+Scanning: E:\Xcluded\Samples\96b5121e841447f89d2a7f0b3c254111
+Infected: Virus/Win32.Nimnul.a
+
+Scanning: E:\Xcluded\Samples\876d3c08d5fe4edea9efef7912b74a69
+Infected: MyPCBackup.E.foha
+
+Scanning: E:\Xcluded\Samples\3533985fb9fe4d668144e3574f155e80
+Infected: Adware.WProtManager.Win32.21
+
+Scanning: E:\Xcluded\Samples\ae72fa1a449a4e74ac336a9a37463c4a
+Infected: TR/Winsecsrv.Gen
+
+Scanning: E:\Xcluded\Samples\798e1da03ccb46c3887d557bc8d84770
+Infected: Adware/Agent.lmx	
+
+Scanning: E:\Xcluded\Samples\1ffe75bda0be488c867df1afafbbf8b6
+Infected: Trojan/Win32.Agent
+
+Scanning: E:\Xcluded\Samples\8201d983ba8848729f6717703a980470
+Infected: Adware.SearchProtect.2
+
+Scanning: E:\Xcluded\Samples\2ca67d0a17ca4237953386fe5babff94
+Infected: Adware.SearchProtect.2
+
+Scanning: E:\Xcluded\Samples\96f5b5fe635e44518406c9e433db6485
+Infected: Adware/Agent.lmx	
+
+Scanning: E:\Xcluded\Samples\590fac341b0d444ba38cc70390812ae5
+Infected: Trojan.ADRD
+
+Scanning: E:\Xcluded\Samples\d54770383f7b439fab0bccadbcd2da5c
+Infected: Adware.MAC.OSX.Genieo.BU
+
+Scanning: E:\Xcluded\Samples\687a1091b19b4746b7ef5d7a198f0275
+Infected: Trojan/Win32.Agent
+
+Scanning: E:\Xcluded\Samples\a8a368578caf4fe694b06b3c0697e1bf
+Infected: Riskware.Win32.FunWeb.dbxkle
+
+Scanning: E:\Xcluded\Samples\2a6ba7a0420941a180db87caefebbc8d
+Infected: W64/Trojan.ZEDZ-3398
+
+Scanning: E:\Xcluded\Samples\f18f25bf187e4140a8a61d890d1fbda0
+Infected: Adware.Win32.Agent
+
+Scanning: E:\Xcluded\Samples\af23dc7d4ecc408ab3c5d891a4e6c43b
+Infected: Script/Exploit.Kit
+
+Scanning: E:\Xcluded\Samples\613f310d08254e8aa1f05058a70ba76b
+Infected: Trojan.Miner.ZZ2
+
+Scanning: E:\Xcluded\Samples\5ece2579736242a0bfe9321cc1ef3c4b
+Infected: JS/Exploit-Blacole.jf
+
+Scanning: E:\Xcluded\Samples\1fe37942e9bb46c0827a2c83512810e8
+Infected: Trojan.GenericKD.30788163
+
+Scanning: E:\Xcluded\Samples\491bd10396664b21821dbdeb3109a10a
+Infected: Trojan.ADRD
+
+Scanning: E:\Xcluded\Samples\43e7c969898849db89fb553fc5a92d9a
+Infected: Application.Agent.HN
+
+Scanning: E:\Xcluded\Samples\a20af69bcc6c44249d3b13b8a8727566
+Infected: Hacktool.IdleKMS.C.gfky
+
+Scanning: E:\Xcluded\Samples\1e54c6a513874fb583ea30284cf78fd1
+Infected: Adware.Suptab.Aq	
+
+Scanning: E:\Xcluded\Samples\1fe179ee9d6e4a268e5c3bada6511894
+Infected: ADWARE/InstallRex.Q
+
+Scanning: E:\Xcluded\Samples\c4da13d1780b482f9f92c9babbe2e6b5
+Infected: Trojan/Win32.Bladabindi
+
+Scanning: E:\Xcluded\Samples\f61068cc02644acfaaac462edcd5e894
+Infected: JS/Exploit-Blacole.jf
+
+Scanning: E:\Xcluded\Samples\e754337c1da84289925ce32d2c114156
+Infected: JS/Exploit-Blacole.jf
+
+Scanning: E:\Xcluded\Samples\6cb501c4c25f4bab84f97e8c6345e01e
+Infected: Malware@#24l1bmprvk8x
+
+Scanning: E:\Xcluded\Samples\e94dab9787284af0be7a77b560d4b657
+Infected: TR/Winsecsrv.Gen
+
+Scanning: E:\Xcluded\Samples\f6d3749920e74c62a7272ee8fa2cd3db
+Infected: Trojan.DR.Diple.Gen.4
+
+Scanning: E:\Xcluded\Samples\9aa3456e42af4d11bd180d5f8cb44aa7
+Infected: Trojan.Miner.ZZ2
+
+Scanning: E:\Xcluded\Samples\88a9f770d98c46ecad79eb9dc4cdd229
+Infected: Adware.MAC.OSX.Genieo.BU
+
+Scanning: E:\Xcluded\Samples\6cd66ab7c7344b68aa6b672f57fdf83c
+Infected: Adware.SearchProtect.ky.tmre
+
+Scanning: E:\Xcluded\Samples\6ea2e57fd27f452395809a5983f05a7e
+Infected: Skodna.Bundle.BD
+
+Scanning: E:\Xcluded\Samples\1eeb47ad71b04cc38a79e4822da1905b
+Infected: JS/Exploit-Blacole.jf
+
+Scanning: E:\Xcluded\Samples\30f0980e17ab44d9b049b3047a180e65
+Infected: Adware.WProtManager.Win32.21
+
+Scanning: E:\Xcluded\Samples\2d851f1b9c1145b0931af5d40091b22c
+Infected: Adware.Win32.Agent
+
+Scanning: E:\Xcluded\Samples\8fd45fbed5f54713a672ccc386001e9f
+Infected: Trojan.DR.Diple.Gen.4
+
+Scanning: E:\Xcluded\Samples\5e07607a3879483db93f311728d73358
+Infected: Script/Exploit.Kit
+
+Scanning: E:\Xcluded\Samples\f0f417ac756b4339bf3c665cded3b004
+Infected: Adware/Agent.lmx	
+
+Scanning: E:\Xcluded\Samples\1d4282a3fdda4f01b759f8c407aac235
+Infected: Adware.Suptab.Aq	
+
+Scanning: E:\Xcluded\Samples\251bd07001b04864aed33d26d70aa605
+Infected: Win32/Expiro4.Gen
+
+Scanning: E:\Xcluded\Samples\11782e97596b47a895b4411c461a2426
+Infected: Adware.Suptab.Aq	
+
+Scanning: E:\Xcluded\Samples\8f49db4a5d364be796282a1aebc59a16
+Infected: Adware.Suptab.Aq	
+
+Scanning: E:\Xcluded\Samples\ed8180bd3c3e483ea207699c28043f40
+Infected: Hacktool.IdleKMS.C.gfky
+
+Scanning: E:\Xcluded\Samples\5c6773ab37864267b92c7beb42dcfff7
+Infected: virus_nameAdWare.Agent
+
+Scanning: E:\Xcluded\Samples\785dbde8020c48c68156385bab4e3eae
+Infected: ADWARE/InstallRex.Q
+
+Scanning: E:\Xcluded\Samples\98a926d1d80d496997107b13ab027284
+Infected: PUP.Win32.MindSpark.F
+
+Scanning: E:\Xcluded\Samples\307aca6f948e4a5f81920eb875da20ae
+Infected: Adware.SearchProtect.ky.tmre
+
+Scanning: E:\Xcluded\Samples\ee7b9f28522a466ebc8a1febebeaaee5
+Infected: MyPCBackup.E.foha
+
+Scanning: E:\Xcluded\Samples\a9d6cb81c086481ca5dd1fc0dce4b79d
+Infected: Riskware/MyWebSearch
+
+Scanning: E:\Xcluded\Samples\53e835bbf5f848e8be83c0506974066d
+Infected: Adware.Win32.Agent
+
+Scanning: E:\Xcluded\Samples\99c2acf5e37f42a1876c5867f8550dcd
+Infected: TR/Winsecsrv.Gen
+
+Scanning: E:\Xcluded\Samples\e22acee1ab6b4b408d5a19093c6be370
+Infected: W64/Trojan.ZEDZ-3398
+
+Scanning: E:\Xcluded\Samples\8cb5e522c4ec40abb476b7ef9084e88a
+Infected: Win32/Expiro4.Gen
+
+Scanning: E:\Xcluded\Samples\31a48bab3c7d4a89be03384041da00f0
+Infected: Virus/Win32.Nimnul.a
+
+Scanning: E:\Xcluded\Samples\df991b0c148c4094854d2b3a39d384a8
+Infected: Trojan.GenericKD.30788163
+
+Scanning: E:\Xcluded\Samples\c0c0b6c6836f4ef29a8f577dc15629a6
+Infected: Win.Adware.SupTab
+
+Scanning: E:\Xcluded\Samples\4270386b61b841af911cb3e69a818f36
+Infected: Troj/Keygen-DX
+
+Scanning: E:\Xcluded\Samples\526e62c8366d4bdfb2ae82c71ef19278
+Infected: Virus/Win32.Nimnul.a
+
+Scanning: E:\Xcluded\Samples\89714b6beb49424e93c4e9c9296302ae
+Infected: JS/Exploit-Blacole.jf
+
+Scanning: E:\Xcluded\Samples\3744723c98d340eeb406d72e61b3ee5d
+Infected: Adware.WProtManager.Win32.21
+
+Scanning: E:\Xcluded\Samples\3cb084b0c14a4d85a6932011c91ec6d2
+Infected: Malware@#24l1bmprvk8x
+
+Scanning: E:\Xcluded\Samples\9c0c5800b11e4ab183382868f852e267
+Infected: Trojan.GenericKD.30788163
+
+Scanning: E:\Xcluded\Samples\bd7a60c4823a4b50bb0552599e091e70
+Infected: Trojan-PWS.Win32.Kykymber
+
+Scanning: E:\Xcluded\Samples\dbda25701a9d4d5d916a1df2998b03af
+Infected: Trojan.Miner.ZZ2
+
+Scanning: E:\Xcluded\Samples\2eb9c09cded141b09ea89b99bbaf585e
+Infected: TR/Winsecsrv.Gen
+
+Scanning: E:\Xcluded\Samples\6ea0ec3147a5432aab422515294950c3
+Infected: Win32.Madang.C
+
+Scanning: E:\Xcluded\Samples\5ec94d21ed6a4806bda42387a9bb5cb9
+Infected: Riskware/MyWebSearch
+
+Scanning: E:\Xcluded\Samples\fcfaceaa41004d0caa2041dcf34201b6
+Infected: Adware.WProtManager.Win32.21
+
+Scanning: E:\Xcluded\Samples\3ad437480dcb4f279fb901e1df88be95
+Infected: Trojan.Miner.ZZ2
+
+Scanning: E:\Xcluded\Samples\99a02d0098e1448eb56113d94bb731b8
+Infected: W64/Trojan.ZEDZ-3398
+
+Scanning: E:\Xcluded\Samples\a2ed877a882b469cb41cc77323e2f1cd
+Infected: TR/Winsecsrv.Gen
+
+Scanning: E:\Xcluded\Samples\2a93a02c11134e2ba688ff41623b33f5
+Infected: Adware/Agent.lmx	
+
+Scanning: E:\Xcluded\Samples\fc4ca98ea75e49c0823c91e33670a115
+Infected: Trojan-PWS.Win32.Kykymber
+
+Scanning: E:\Xcluded\Samples\e6e6ff4d42b94342a008ebde914c6e17
+Infected: Adware.MAC.OSX.Genieo.BU
+
+Scanning: E:\Xcluded\Samples\ac4d33ac30a14649b4b4e2dfdffce280
+Infected: Skodna.Bundle.BD
+
+Scanning: E:\Xcluded\Samples\67c6d0cd1e1c408997a10feaa88bed26
+Infected: Trojan.GenericKD.30788163
+
+Scanning: E:\Xcluded\Samples\dceafbe407104d0abf002431aaa5f998
+Infected: Adware.MAC.OSX.Genieo.BU
+
+Scanning: E:\Xcluded\Samples\953ecbe3edeb426eb937f690cab2d3a5
+Infected: Win32.Madang.C
+
+Scanning: E:\Xcluded\Samples\bf9eddbbe4b8499798ebbadd54d26682
+Infected: Trojan-PWS.Win32.Kykymber
+
+Scanning: E:\Xcluded\Samples\d550accf41c6447ea6a032366f0ead63
+Infected: MyPCBackup.E.foha
+
+Scanning: E:\Xcluded\Samples\88d5d18280c64187a40387a54b63fed7
+Infected: Riskware.Win32.FunWeb.dbxkle
+
+Scanning: E:\Xcluded\Samples\26c9c870edba4bcf8406adacc9d1c179
+Infected: Gandcrab.Ransomware
+
+Scanning: E:\Xcluded\Samples\f67585bea33f4772861098fb2eba39bf
+Infected: Trojan.GenericKD.30788163
+
+Scanning: E:\Xcluded\Samples\d62071f4755c4728b8ed43b3a7079e35
+Infected: ADWARE/Adware.Gen
+
+Scanning: E:\Xcluded\Samples\1dfb6a3273f14ea5aa3bc5bcc7a2240b
+Infected: Trojan/Win32.Agent
+
+Scanning: E:\Xcluded\Samples\87010062d1aa49919b6d28dab2646482
+Infected: Win32/Expiro4.Gen
+
+Scanning: E:\Xcluded\Samples\948cbd328f7e4e8d88db81bd0c484bce
+Infected: Malware@#24l1bmprvk8x
+
+Scanning: E:\Xcluded\Samples\d0adab0196fd409695c9fcd5834e42e5
+Infected: Adware/Agent.lmx	
+
+Scanning: E:\Xcluded\Samples\62cf6771528a4724981024442d8a7f71
+Infected: W64/Trojan.ZEDZ-3398
+
+Scanning: E:\Xcluded\Samples\dadc67978951411989039e58589ab639
+Infected: virus_nameAdWare.Agent
+
+Scanning: E:\Xcluded\Samples\71139a0ef3d6405dbd1763dd67eaa863
+Infected: Virus/Win32.Nimnul.a
+
+Scanning: E:\Xcluded\Samples\ac7b408da3604b6abd1079f64c480d5d
+Infected: TR/Winsecsrv.Gen
+
+Scanning: E:\Xcluded\Samples\6334ad5ae78f492886c9efc1f2621024
+Infected: Trojan-PWS.Win32.Kykymber
+
+Scanning: E:\Xcluded\Samples\99be1a76df7b4772bfb84b75de3dd34a
+Infected: Trojan/Win32.Bladabindi
+
+Scanning: E:\Xcluded\Samples\f895c5f1a7214fc086f9386471a6b1c3
+Infected: Trojan.GenericKD.30788163
+
+Scanning: E:\Xcluded\Samples\9729cf256a3f426fb8fda70ebb80bdb6
+Infected: Adware.MAC.OSX.Genieo.BU
+
+Scanning: E:\Xcluded\Samples\e46d9b76feb448c291eb92971b2bd61e
+Infected: Application.Agent.HN
+
+Scanning: E:\Xcluded\Samples\16721a15841d4ca89a68b1cd02b64b1d
+Infected: Riskware/MyWebSearch
+
+Scanning: E:\Xcluded\Samples\2f0df4949cc742478f8a10e0758c6ab0
+Infected: PUP.Win32.MindSpark.F
+
+Scanning: E:\Xcluded\Samples\55c14129d5ce4761b19eeeed265b9d97
+Infected: Malware@#24l1bmprvk8x
+
+Scanning: E:\Xcluded\Samples\fd08ac952e9c4766816afae4297886d4
+Infected: Adware/Agent.lmx	
+
+Scanning: E:\Xcluded\Samples\2ed774e978444b88bf80bdede60fc361
+Infected: W64/Trojan.ZEDZ-3398
+
+Scanning: E:\Xcluded\Samples\9e7647d72e18425ab3233fe676362e55
+Infected: ADWARE/Adware.Gen
+
+Scanning: E:\Xcluded\Samples\8e9fe80e62994d869e70f15a4c0bd07f
+Infected: Trojan.ADRD
+
+Scanning: E:\Xcluded\Samples\c702ec98b84c4778a81fe60eaab06c11
+Infected: W64/Trojan.ZEDZ-3398
+
+Scanning: E:\Xcluded\Samples\a65bc22ab6684fd9b0ec8f655ff3eac5
+Infected: Trojan-PWS.Win32.Kykymber
+
+Scanning: E:\Xcluded\Samples\9b37b8bc19514d2abe361f8ba4fdf73d
+Infected: Adware.Win32.Agent
+
+Scanning: E:\Xcluded\Samples\597444b337f4498eb78c4b75326ea88a
+Infected: Skodna.Bundle.BD
+
+Scanning: E:\Xcluded\Samples\deedb9d208404bf6b3d856498a8ffb57
+Infected: Riskware/MyWebSearch
+
+Scanning: E:\Xcluded\Samples\b2b409aad4f74298abb7811e8905dff1
+Infected: Trojan/Win32.Bladabindi
+
+Scanning: E:\Xcluded\Samples\abafe1975e26484c83d32cc99b98e097
+Infected: Adware.SearchProtect.ky.tmre
+
+Scanning: E:\Xcluded\Samples\64851a66839b49be8c7c39c4efeb60b3
+Infected: Trojan/Win32.SGeneric
+
+Scanning: E:\Xcluded\Samples\3c4f62e87af94bd889362deda5e20317
+Infected: PUP.Win32.MindSpark.F
+
+Scanning: E:\Xcluded\Samples\3ae910c8843f4c79843e93abfb098820
+Infected: Trojan.ADRD
+
+Scanning: E:\Xcluded\Samples\ae7320bf42924f2bb3683158ea461c8c
+Infected: Application.Agent.HN
+
+Scanning: E:\Xcluded\Samples\86bb02c1dcea493183206eb8546bb09a
+Infected: Trojan/Win32.Bladabindi
+
+Scanning: E:\Xcluded\Samples\4ee88316307e4d128890c7bf7469c8ba
+Infected: Adware.SearchProtect.2
+
+Scanning: E:\Xcluded\Samples\c3403d39e7fc45d29b2cf51295a2b1f3
+Infected: virus_nameAdWare.Agent
+
+Scanning: E:\Xcluded\Samples\509b9d6ac02449e6a27af9719f5a52ee
+Infected: Trojan/Win32.Agent
+
+Scanning: E:\Xcluded\Samples\c7631a79a3ee4d79bd5cf6e9fcd2916c
+Infected: Adware.MAC.OSX.Genieo.BU
+
+Scanning: E:\Xcluded\Samples\e1eaa28080cf43c288a668d0b4e8540c
+Infected: Adware.Win32.Agent
+
+Scanning: E:\Xcluded\Samples\579b1ebf860344a7bdc47d5ca047b86e
+Infected: Adware.Win32.Agent
+
+Scanning: E:\Xcluded\Samples\2ac8f2500a474109b167fc564d50b585
+Infected: Adware.Win32.Agent
+
+Scanning: E:\Xcluded\Samples\a4f4e734c4c84e079928bec1fda57a24
+Infected: Trojan/Win32.Bladabindi
+
+Scanning: E:\Xcluded\Samples\2378e8a307734a6095a53d741740981b
+Infected: Trojan.Mauvasie
+
+Scanning: E:\Xcluded\Samples\9f86b46b5faf4912b4db2158814ca3cb
+Infected: Trojan/Win32.Agent
+
+Scanning: E:\Xcluded\Samples\e221457330074489a60d656ffded9a9d
+Infected: Gandcrab.Ransomware
+
+Scanning: E:\Xcluded\Samples\b1cff2f8407b4e909fa7c9e35d58eb75
+Infected: Riskware.Win32.FunWeb.dbxkle
+
+Scanning: E:\Xcluded\Samples\8241e94610304a3783a6e3d6a11a530e
+Infected: Script/Exploit.Kit
+
+Scanning: E:\Xcluded\Samples\18f6195a170b426d877516a7e5ab597f
+Infected: Win.Adware.SupTab
+
+Scanning: E:\Xcluded\Samples\2820424024814bec8bf94ce78d355ebb
+Infected: Troj/Keygen-DX
+
+Scanning: E:\Xcluded\Samples\9a4c982ead7742aa83e5b9dd29dfe742
+Infected: W64/Trojan.ZEDZ-3398
+
+Scanning: E:\Xcluded\Samples\e39e22684669440599dc538db2980207
+Infected: ADWARE/Adware.Gen
+
+Scanning: E:\Xcluded\Samples\76192a47bcbe4af7a9552909c33d9e7c
+Infected: virus_nameAdWare.Agent
+
+Scanning: E:\Xcluded\Samples\acb8ff0f832a41aea3ffd1f19ccb538f
+Infected: Trojan/Win32.Bladabindi
+
+Scanning: E:\Xcluded\Samples\03c7220bf91a4a189b7c42c3e2f25e5c
+Infected: Adware.Win32.Agent
+
+Scanning: E:\Xcluded\Samples\138aba6bea32487ea582bbd30dbb5aed
+Infected: Trojan/Win32.Agent
+
+Scanning: E:\Xcluded\Samples\aa648f2eb3b64b34b937a2746a5017f1
+Infected: Riskware.Win32.FunWeb.dbxkle
+
+Scanning: E:\Xcluded\Samples\2451e5af9ed748f5b051248dc24ea5d7
+Infected: Hacktool.IdleKMS.C.gfky
+
+Scanning: E:\Xcluded\Samples\0177661dafd94f89b017f96a19edd474
+Infected: ADWARE/Adware.Gen
+
+Scanning: E:\Xcluded\Samples\59f94183b75747c1910bbe251db2b900
+Infected: Riskware.Win32.FunWeb.dbxkle
+
+Scanning: E:\Xcluded\Samples\762b07c067284dfbac139fd784f01624
+Infected: Virus/Win32.Nimnul.a
+
+Scanning: E:\Xcluded\Samples\324a85832ed24c15ab5a5faaab7ba572
+Infected: Win32.Madang.C
+
+Scanning: E:\Xcluded\Samples\ede93bf7a4ce4402acf1d533af11e8e8
+Infected: Win32.Madang.C
+
+Scanning: E:\Xcluded\Samples\3b13d69b639f4169967556cee9e997aa
+Infected: Trojan/Win32.Agent
+
+Scanning: E:\Xcluded\Samples\8bc57abba28d45f6be3cc411a6fa3fd1
+Infected: Trojan/Win32.SGeneric
+
+Scanning: E:\Xcluded\Samples\be3c887936784022b163e5157daf3f9f
+Infected: Trojan.ADRD
+
+Scanning: E:\Xcluded\Samples\535baa8f156544af8d4cc7343775fa80
+Infected: ADWARE/InstallRex.Q
+
+Scanning: E:\Xcluded\Samples\3c939416f9a14dbe83591aad895544de
+Infected: Adware.WProtManager.Win32.21
+
+Scanning: E:\Xcluded\Samples\6d791780af4747699bd508d5c6017558
+Infected: Adware/Agent.lmx	
+
+Scanning: E:\Xcluded\Samples\47e3cef4bedd4f0d8bcc5b75a837c423
+Infected: Hacktool.IdleKMS.C.gfky
+
+Scanning: E:\Xcluded\Samples\41f43a6744c24a7b8a7d8a22f74fec49
+Infected: Riskware/MyWebSearch
+
+Scanning: E:\Xcluded\Samples\75d57e539cf644008f9fb494c1122700
+Infected: Gandcrab.Ransomware
+
+Scanning: E:\Xcluded\Samples\2adf059603c24cfcafcbcad5ac2c5583
+Infected: Riskware/MyWebSearch
+
+Scanning: E:\Xcluded\Samples\0fcb36ad0f5247dda7b39b23e0c8ad73
+Infected: Skodna.Bundle.BD
+
+Scanning: E:\Xcluded\Samples\0d5da00fd6eb4fe98b6a2bf63c413ca0
+Infected: Riskware/MyWebSearch
+
+Scanning: E:\Xcluded\Samples\4d82df98f5a548b2870d512a120b5667
+Infected: Adware.WProtManager.Win32.21
+
+Scanning: E:\Xcluded\Samples\6211710e92d8487bb892805fd586d4b1
+Infected: Adware.SearchProtect.2
+
+Scanning: E:\Xcluded\Samples\f35838456a914627a1987aa4936ad92c
+Infected: Application.Agent.HN
+
+Scanning: E:\Xcluded\Samples\71b1211cfaa1411d893339e9fad71d2b
+Infected: Script/Exploit.Kit
+
+Scanning: E:\Xcluded\Samples\0f70a5c2ced34daabdd0355a3f2e55ed
+Infected: Malware@#24l1bmprvk8x
+
+Scanning: E:\Xcluded\Samples\b8fbd3695e804cb398d623a964cf09d9
+Infected: PUP.Win32.MindSpark.F
+
+Scanning: E:\Xcluded\Samples\3a53ceff31d6456793d7483004ad7dca
+Infected: W64/Trojan.ZEDZ-3398
+
+Scanning: E:\Xcluded\Samples\3d238227ece34299a97025c73c028548
+Infected: Adware.SearchProtect.2
+
+Scanning: E:\Xcluded\Samples\3022b70e878243a4aa00c3d5f3a18338
+Infected: Virus/Win32.Nimnul.a
+
+Scanning: E:\Xcluded\Samples\660ccf81674249c4a575d9d07706761d
+Infected: Application.Agent.HN
+
+Scanning: E:\Xcluded\Samples\ba0493baa6a0439ba63039634cebfff1
+Infected: Riskware.Win32.FunWeb.dbxkle
+
+Scanning: E:\Xcluded\Samples\83823f1294aa4b0995d9e329ef82c73f
+Infected: virus_nameAdWare.Agent
+
+Scanning: E:\Xcluded\Samples\cfdb4f9e4b2a4c959270dcbe80a9e2bc
+Infected: Trojan/Win32.Bladabindi
+
+Scanning: E:\Xcluded\Samples\9f6fdebf26304bee9af7e23d2481ee27
+Infected: Adware.Win32.Agent
+
+Scanning: E:\Xcluded\Samples\ec1fb4c92c294850ac42c7fffb0703d1
+Infected: Adware.SearchProtect.2
+
+Scanning: E:\Xcluded\Samples\78f3df244bf04c4eae0e285955a5e2e1
+Infected: Trojan.GenericKD.30788163 (B)
+
+Scanning: E:\Xcluded\Samples\23fa2449df664fd8b1b54360cbd18990
+Infected: Adware.SearchProtect.ky.tmre
+
+Scanning: E:\Xcluded\Samples\259bf637a7474e7ca2204372e436420b
+Infected: JS/Exploit-Blacole.jf
+
+Scanning: E:\Xcluded\Samples\500d8122778b4ab8bd93ed1e00c98e6c
+Infected: Virus/Win32.Nimnul.a
+
+Scanning: E:\Xcluded\Samples\b8b53ba0c87f4872b7cda8b3d96cb17c
+Infected: Troj/Keygen-DX
+
+Scanning: E:\Xcluded\Samples\a31f717d3df04dc29209821eec88ad8f
+Infected: Win32.Madang.C
+
+Scanning: E:\Xcluded\Samples\0cd54b9f05e64639a3605e0d440737ae
+Infected: Trojan/Win32.Agent
+
+Scanning: E:\Xcluded\Samples\c7c4f3382c384afa817793fbe8d07aa2
+Infected: W64/Trojan.ZEDZ-3398
+
+Scanning: E:\Xcluded\Samples\563dad37e5564038a7f3c33701d703ca
+Infected: JS/Exploit-Blacole.jf
+
+Scanning: E:\Xcluded\Samples\e9c6736e07a2410e8b1df4609802d096
+Infected: Adware.Suptab.Aq	
+
+Scanning: E:\Xcluded\Samples\99595bf512db46d4b3a37db9c9b6256c
+Infected: Win.Adware.SupTab
+
+Scanning: E:\Xcluded\Samples\e6dd073bcc30489dbfb2a52aed574bcb
+Infected: Virus/Win32.Nimnul.a
+
+Scanning: E:\Xcluded\Samples\c2a7db8e2d8f4d0f818e9f51a20e3331
+Infected: Adware.SearchProtect.ky.tmre
+
+Scanning: E:\Xcluded\Samples\c2eaefdc3e0f42e8853acda975c26a92
+Infected: Virus/Win32.Nimnul.a
+
+Scanning: E:\Xcluded\Samples\8d31ac04884740bf8316a645c9cdd538
+Infected: TR/Winsecsrv.Gen
+
+Scanning: E:\Xcluded\Samples\c8b621d90cd64ca9aac50a90a63b5213
+Infected: Adware.Win32.Agent
+
+Scanning: E:\Xcluded\Samples\05548f2ebfc448ac956b2ceae24960d8
+Infected: Adware.SearchProtect.ky.tmre
+
+Scanning: E:\Xcluded\Samples\161bf97eacca455c95f3ce54abbc1837
+Infected: Skodna.Bundle.BD
+
+Scanning: E:\Xcluded\Samples\4deb287be26d473aadd29db7b3db3b60
+Infected: virus_nameAdWare.Agent
+
+Scanning: E:\Xcluded\Samples\8c282a2348d3497fa6dd21cb11dc174a
+Infected: Win.Adware.SupTab
+
+Scanning: E:\Xcluded\Samples\5e891701d35243c5b083e162860c15b0
+Infected: Adware.MAC.OSX.Genieo.BU
+
+Scanning: E:\Xcluded\Samples\4d38ed0ecf8d4154b0213047f2f00d80
+Infected: PUP.Win32.MindSpark.F
+
+Scanning: E:\Xcluded\Samples\d5e7c169cf9a4937a606437b698de869
+Infected: JS/Exploit-Blacole.jf
+
+Scanning: E:\Xcluded\Samples\1a7fde3eed464d98a78c0e13f8277058
+Infected: Trojan.DR.Diple.Gen.4
+
+Scanning: E:\Xcluded\Samples\1240c797935441c1b5ce78c2c4c606ed
+Infected: ADWARE/Adware.Gen
+
+Scanning: E:\Xcluded\Samples\5486336044984ab4b78d06b1632d4591
+Infected: Adware.SearchProtect.ky.tmre
+
+Scanning: E:\Xcluded\Samples\2e68544405c34891a729ea49282d0272
+Infected: W64/Trojan.ZEDZ-3398
+
+Scanning: E:\Xcluded\Samples\eafb2de4c98c46e8a9ee9e95531dcc4d
+Infected: Troj/Keygen-DX
+
+Scanning: E:\Xcluded\Samples\74b817d391514c678a623851efcf1e86
+Infected: Win.Adware.SupTab
+
+Scanning: E:\Xcluded\Samples\a2ea2a28ab014adfa9009c668a628181
+Infected: Trojan-PWS.Win32.Kykymber
+
+Scanning: E:\Xcluded\Samples\f82818810a7a4002ae589806284b75b4
+Infected: Hacktool.IdleKMS.C.gfky
+
+Scanning: E:\Xcluded\Samples\3943e4226d314787bc9da7466a07f295
+Infected: Trojan.DR.Diple.Gen.4
+
+Scanning: E:\Xcluded\Samples\3c58d68064d541dda961fb1f5945d115
+Infected: virus_nameAdWare.Agent
+
+Scanning: E:\Xcluded\Samples\73a9e443d2b24a8bbf395e80e8035181
+Infected: Skodna.Bundle.BD
+
+Scanning: E:\Xcluded\Samples\ea71c805748545e19a4ea6270cd9b4e4
+Infected: Virus/Win32.Nimnul.a
+
+Scanning: E:\Xcluded\Samples\8cdbf6fa997f43baac11f94db125ae38
+Infected: TR/Winsecsrv.Gen
+
+Scanning: E:\Xcluded\Samples\49995b177c254e77a7c833652ae8c968
+Infected: Win32/Expiro4.Gen
+
+Scanning: E:\Xcluded\Samples\b58c55a7379e4ef0b12ca036ebf9eb2e
+Infected: ADWARE/Adware.Gen
+
+Scanning: E:\Xcluded\Samples\77edf3728f3d47979288266e9497717b
+Infected: Virus/Win32.Nimnul.a
+
+Scanning: E:\Xcluded\Samples\c1a062dbe7824a79be66c4eb63ca7665
+Infected: PUP.Win32.MindSpark.F
+
+Scanning: E:\Xcluded\Samples\8662259a80304c789575030986df5aa7
+Infected: ADWARE/Adware.Gen
+
+Scanning: E:\Xcluded\Samples\e0e536e5fdbb4351a99c3abd1cc3414a
+Infected: MyPCBackup.E.foha
+
+Scanning: E:\Xcluded\Samples\9c2c61dcdabd42e79f04bd44733d89cc
+Infected: Trojan.DR.Diple.Gen.4
+
+Scanning: E:\Xcluded\Samples\66d1da8a61694163b195c113314f75ad
+Infected: Adware.Suptab.Aq	
+
+Scanning: E:\Xcluded\Samples\53bb2624007547c6ab54642d4e08dfb9
+Infected: Trojan/Win32.Bladabindi
+
+Scanning: E:\Xcluded\Samples\1a64bf6315314c6c80d63632f54cc0fe
+Infected: Trojan.ADRD
+
+Scanning: E:\Xcluded\Samples\a45c072653e249f3a23a29c14f382375
+Infected: Trojan.DR.Diple.Gen.4
+
+Scanning: E:\Xcluded\Samples\a6a293b08af74c318bf7bf4f248a1682
+Infected: Adware.MAC.OSX.Genieo.BU
+
+Scanning: E:\Xcluded\Samples\809a0e87bbd14ed5ae43f88c48bfe1f0
+Infected: Win32/Expiro4.Gen
+
+Scanning: E:\Xcluded\Samples\713ed59ed1424d98a6ff25e90548260c
+Infected: Win.Adware.SupTab
+
+Scanning: E:\Xcluded\Samples\5c270c2162b343cd8cc961675e3965b2
+Infected: ADWARE/InstallRex.Q
+
+Scanning: E:\Xcluded\Samples\c607e499c94e4cb6b3fc1133a9b23ce6
+Infected: Malware@#24l1bmprvk8x
+
+Scanning: E:\Xcluded\Samples\d429d64dc3ac4b1f8b1601fda3471a18
+Infected: virus_nameAdWare.Agent
+
+Scanning: E:\Xcluded\Samples\dfb69a30c9084422841746de67b3020f
+Infected: Adware.Suptab.Aq	
+
+Scanning: E:\Xcluded\Samples\0b572f827fb64da099ff87748a64f245
+Infected: Adware/Agent.lmx	
+
+Scanning: E:\Xcluded\Samples\c5af42a19c0841c893312d93bb59ec92
+Infected: W64/Trojan.ZEDZ-3398
+
+Scanning: E:\Xcluded\Samples\57ce1d9aa293429b999199ad5f4ddeb3
+Infected: JS/Exploit-Blacole.jf
+
+Scanning: E:\Xcluded\Samples\b220345aba9645f38be7f704e3ef7c9a
+Infected: Trojan/Win32.Agent
+
+Scanning: E:\Xcluded\Samples\b0196ef3214545b882841ac1f184396b
+Infected: ADWARE/Adware.Gen
+
+Scanning: E:\Xcluded\Samples\e26f4b8c69e1451f9e4079c5a73d3e8c
+Infected: PUP.Win32.MindSpark.F
+
+Scanning: E:\Xcluded\Samples\34cb63eb49614ebc9d6bbbbda9b917f4
+Infected: TR/Winsecsrv.Gen
+
+Scanning: E:\Xcluded\Samples\f1ce22b394fd46a997bf5a0deead80d1
+Infected: Adware.WProtManager.Win32.21
+
+Scanning: E:\Xcluded\Samples\913fd412950a4fba96e36dea67f2c8d6
+Infected: Application.Agent.HN
+
+Scanning: E:\Xcluded\Samples\72e5664d260c493ba547103ff15cb3a2
+Infected: Adware/Agent.lmx	
+
+Scanning: E:\Xcluded\Samples\6adc8d5358724df08780165b5a967bef
+Infected: Script/Exploit.Kit
+
+Scanning: E:\Xcluded\Samples\8b19c6a44a0d4ccfa0f87ba99022476d
+Infected: Trojan.DR.Diple.Gen.4
+
+Scanning: E:\Xcluded\Samples\4f0fd3565cf549859f3f2f205f98c8f2
+Infected: Trojan-PWS.Win32.Kykymber
+
+Scanning: E:\Xcluded\Samples\8c8e4400e969434ab7da78ecea9b2847
+Infected: Adware.SearchProtect.2
+
+Scanning: E:\Xcluded\Samples\5c5bf45bdc1f4aab99fb05c0a5384620
+Infected: Trojan-PWS.Win32.Kykymber
+
+Scanning: E:\Xcluded\Samples\f5c2320d624c4dd9b264fa80dd53fbb8
+Infected: Riskware.Win32.FunWeb.dbxkle
+
+Scanning: E:\Xcluded\Samples\519557a050f848d6b8abd62fe90eb36b
+Infected: Win32/Expiro4.Gen
+
+Scanning: E:\Xcluded\Samples\2059f8565e934250b57c1496679e936f
+Infected: Riskware.Win32.FunWeb.dbxkle
+
+Scanning: E:\Xcluded\Samples\e970722f6a7e4290ba362fd4e1856023
+Infected: Trojan/Win32.SGeneric
+
+Scanning: E:\Xcluded\Samples\f0940656cf58430eb302f3f18c477aba
+Infected: W64/Trojan.ZEDZ-3398
+
+Scanning: E:\Xcluded\Samples\fd0bafde8fa04b76b80afcfae0e9ba81
+Infected: Win.Adware.SupTab
+
+Scanning: E:\Xcluded\Samples\36631f9a203446ad90aaf9c38926959a
+Infected: Adware.Win32.Agent
+
+Scanning: E:\Xcluded\Samples\b4ca0a95df804cc4bd8b09bf7a871be0
+Infected: Win.Adware.SupTab
+
+Scanning: E:\Xcluded\Samples\6a008c93149f4e2abd75cfb301e59eec
+Infected: W64/Trojan.ZEDZ-3398
+
+Scanning: E:\Xcluded\Samples\6d1e7bedffda429fa39d9eb3e782a6f5
+Infected: Adware.SearchProtect.2
+
+Scanning: E:\Xcluded\Samples\611acf60be3a418496fc93a514c976af
+Infected: Malware@#24l1bmprvk8x
+
+Scanning: E:\Xcluded\Samples\215cce0651db47c78119b3284b49597c
+Infected: virus_nameAdWare.Agent
+
+Scanning: E:\Xcluded\Samples\4b9b660905ee4b25a066bda4fbe32328
+Infected: Adware.SearchProtect.ky.tmre
+
+Scanning: E:\Xcluded\Samples\dd59f080f1a84260a94378a84229d2e0
+Infected: Win.Adware.SupTab
+
+Scanning: E:\Xcluded\Samples\32ab46d375d14c52ac94ade95872e82f
+Infected: Virus/Win32.Nimnul.a
+
+Scanning: E:\Xcluded\Samples\fc32ebfb760c4fcb9266f12a8a543b91
+Infected: Hacktool.IdleKMS.C.gfky
+
+Scanning: E:\Xcluded\Samples\e3f050f720f24f37a6e12e34e571cd7c
+Infected: Trojan.GenericKD.30788163 (B)
+
+Scanning: E:\Xcluded\Samples\e8f5721e0a21483fafa22628f5793697
+Infected: PUP.Win32.MindSpark.F
+
+Scanning: E:\Xcluded\Samples\2801a201f201447989deeff159a0b182
+Infected: JS/Exploit-Blacole.jf
+
+Scanning: E:\Xcluded\Samples\748fb5c3e17f4c4d88819cb3cea0e5f3
+Infected: Riskware.Win32.FunWeb.dbxkle
+
+Scanning: E:\Xcluded\Samples\3d87799bd7bd4cb28c13ba6cf649ca47
+Infected: Hacktool.IdleKMS.C.gfky
+
+Scanning: E:\Xcluded\Samples\130e75ae0c1444b1b0c5dacab5ac0a80
+Infected: Script/Exploit.Kit
+
+Scanning: E:\Xcluded\Samples\9da93dfd9b1d44a5818f75d55bc85a08
+Infected: JS/Exploit-Blacole.jf
+
+Scanning: E:\Xcluded\Samples\c44f97aabe5f46c0b3b706241ed2b4fb
+Infected: JS/Exploit-Blacole.jf
+
+Scanning: E:\Xcluded\Samples\f30e9f8dcb7d4e1fa003aa39ecdbc82b
+Infected: Win32/Expiro4.Gen
+
+Scanning: E:\Xcluded\Samples\b2418caedd9345c1a25f4761e57c7f62
+Infected: Troj/Keygen-DX
+
+Scanning: E:\Xcluded\Samples\509d4bd6bd234236a0a1abad39d90178
+Infected: Trojan/Win32.SGeneric
+
+Scanning: E:\Xcluded\Samples\5f415f41ef9b4c5e9fd55756253c7415
+Infected: Script/Exploit.Kit
+
+Scanning: E:\Xcluded\Samples\4b8281bb7b094318afa7fa5d4fb4f3f2
+Infected: ADWARE/InstallRex.Q
+
+Scanning: E:\Xcluded\Samples\1402212270cd495c8579ea3042ada475
+Infected: ADWARE/InstallRex.Q
+
+Scanning: E:\Xcluded\Samples\eb750446aa164382a03a0e9533ad4b8d
+Infected: W64/Trojan.ZEDZ-3398
+
+Scanning: E:\Xcluded\Samples\568c87de1a874474a6eb6225211d20da
+Infected: Malware@#24l1bmprvk8x
+
+Scanning: E:\Xcluded\Samples\4972e98d7d254d2cb10c572bc63decff
+Infected: Trojan.GenericKD.30788163
+
+Scanning: E:\Xcluded\Samples\30530aadfd2543178538c6dc2c6a64c2
+Infected: Trojan.Miner.ZZ2
+
+Scanning: E:\Xcluded\Samples\b15bc79ad5c6460e9ec8ba3e06fc65d6
+Infected: ADWARE/InstallRex.Q
+
+Scanning: E:\Xcluded\Samples\6cab6e8b500d4eb095f50911235c7c5e
+Infected: virus_nameAdWare.Agent
+
+Scanning: E:\Xcluded\Samples\471f0c060bad462aa322de50645bd481
+Infected: Win32.Madang.C
+
+Scanning: E:\Xcluded\Samples\36904882fac14dafa35e0dac36abfba5
+Infected: Skodna.Bundle.BD
+
+Scanning: E:\Xcluded\Samples\cf241707c8e540d9b781a73b78c54ba9
+Infected: MyPCBackup.E.foha
+
+Scanning: E:\Xcluded\Samples\a92527cb58b840199c6080363bbac17a
+Infected: Virus/Win32.Nimnul.a
+
+Scanning: E:\Xcluded\Samples\6a179efeff2446f89c2a41817690f590
+Infected: Trojan.Miner.ZZ2
+
+Scanning: E:\Xcluded\Samples\b619030c70af4d47a95d0dbe0a30f6a7
+Infected: Malware@#24l1bmprvk8x
+
+Scanning: E:\Xcluded\Samples\ff41baa28811433bac6b7d67f430c627
+Infected: Trojan/Win32.SGeneric
+
+Scanning: E:\Xcluded\Samples\3a5d169007584aed962a8db3cac4e489
+Infected: ADWARE/Adware.Gen
+
+Scanning: E:\Xcluded\Samples\096d1be325104398819e339ffaf02f26
+Infected: Adware.Suptab.Aq	
+
+Scanning: E:\Xcluded\Samples\876e8a91c37a4f5fb702caf75c372e1d
+Infected: TR/Winsecsrv.Gen
+
+Scanning: E:\Xcluded\Samples\15d66cfe11cd426d896428bc6469df11
+Infected: Gandcrab.Ransomware
+
+Scanning: E:\Xcluded\Samples\c524900730c94cb4a63d3eb5fec7225a
+Infected: Adware.MAC.OSX.Genieo.BU
+
+Scanning: E:\Xcluded\Samples\b815f445a6f243398873faf9521d6afb
+Infected: Adware/Agent.lmx	
+
+Scanning: E:\Xcluded\Samples\4f367848a25142c1adfb75dd87a62b14
+Infected: Win32.Madang.C
+
+Scanning: E:\Xcluded\Samples\99aeef199d4446ac9d09abd9fe78a273
+Infected: Script/Exploit.Kit
+
+Scanning: E:\Xcluded\Samples\5f6a4f87c225458986ff1afc9903e702
+Infected: Trojan-PWS.Win32.Kykymber
+
+Scanning: E:\Xcluded\Samples\5ce88c2d3531428e9a15d2939628ec2e
+Infected: Win.Adware.SupTab
+
+Scanning: E:\Xcluded\Samples\7f9a351605744a8191df55914aa4353d
+Infected: Trojan.GenericKD.30788163
+
+Scanning: E:\Xcluded\Samples\e790bd02951146c69354fedb65c9faa8
+Infected: Trojan.Miner.ZZ2
+
+Scanning: E:\Xcluded\Samples\0209eafc4e63457f8734bdb93ce99ea2
+Infected: W64/Trojan.ZEDZ-3398
+
+Scanning: E:\Xcluded\Samples\9cc60db9af294d54baefd1be8da0ea42
+Infected: Adware.SearchProtect.ky.tmre
+
+Scanning: E:\Xcluded\Samples\1e3469f977ef410492d5094530eaa541
+Infected: Adware.WProtManager.Win32.21
+
+Scanning: E:\Xcluded\Samples\2ce8209c67fb4e82b46405ad275312e3
+Infected: Adware.Suptab.Aq	
+
+Scanning: E:\Xcluded\Samples\00bee1e1d2fa4d9b82a8247997bd3eb7
+Infected: Trojan/Win32.Bladabindi
+
+Scanning: E:\Xcluded\Samples\9bf84f5d90db462a8be47ac7dcfd40e9
+Infected: MyPCBackup.E.foha
+
+Scanning: E:\Xcluded\Samples\98e9a66449644b2d9b31a03dbd5186a7
+Infected: Trojan/Win32.Agent
+
+Scanning: E:\Xcluded\Samples\7f284ed1a9c048d98a608d367a184562
+Infected: Malware@#24l1bmprvk8x
+
+Scanning: E:\Xcluded\Samples\a0da21411c6c482493bfd950a66cd213
+Infected: Adware/Agent.lmx	
+
+Scanning: E:\Xcluded\Samples\72141b1130f940b2a7f9139d00353003
+Infected: Win32.Madang.C
+
+Scanning: E:\Xcluded\Samples\f36ff61c67b6478bb651999985bf166b
+Infected: PUP.Win32.MindSpark.F
+
+Scanning: E:\Xcluded\Samples\974baa501e9f4a87affbbdcfbb15d6e1
+Infected: Adware.Win32.Agent
+
+Scanning: E:\Xcluded\Samples\9730119b915b4b889102aee6bb846f9b
+Infected: virus_nameAdWare.Agent
+
+Scanning: E:\Xcluded\Samples\cebdf4d9c57a4587939162c1f8cb3c2a
+Infected: Trojan-PWS.Win32.Kykymber
+
+Scanning: E:\Xcluded\Samples\3f307c2f080944f8b4bc0345d5fb3ed9
+Infected: Trojan.GenericKD.30788163
+
+Scanning: E:\Xcluded\Samples\61f92688470a43f1bdcdb546a9dc304a
+Infected: ADWARE/InstallRex.Q
+
+Scanning: E:\Xcluded\Samples\aa8565b7030240148db9e1119d25a736
+Infected: Adware.Suptab.Aq	
+
+Scanning: E:\Xcluded\Samples\6763d9a0ac7240849e1b6e653d63927b
+Infected: Trojan.Miner.ZZ2
+
+Scanning: E:\Xcluded\Samples\d5b73833b114424780f705892ef750d4
+Infected: Script/Exploit.Kit
+
+Scanning: E:\Xcluded\Samples\04fbc4c05e9f48749b55a73e3fa852f7
+Infected: Adware.Suptab.Aq	
+
+Scanning: E:\Xcluded\Samples\75e40bbb0f354b729d043a8b097929f6
+Infected: TR/Winsecsrv.Gen
+
+Scanning: E:\Xcluded\Samples\6897cec8e39d47c59c5ac9d64210b7c3
+Infected: virus_nameAdWare.Agent
+
+Scanning: E:\Xcluded\Samples\a8b43758697a4694a486333ea7e36bbe
+Infected: Win32/Expiro4.Gen
+
+Scanning: E:\Xcluded\Samples\6e3bc02acf0d4f38b461ab70b0418df8
+Infected: Trojan.Miner.ZZ2
+
+Scanning: E:\Xcluded\Samples\809a18719b9644b482bae1bbfae60677
+Infected: Trojan.GenericKD.30788163 (B)
+
+Scanning: E:\Xcluded\Samples\d71241d6dfe74f4f950a65990b249538
+Infected: Troj/Keygen-DX
+
+Scanning: E:\Xcluded\Samples\c10f26488e3a4b6785a95e82f2f4102a
+Infected: Skodna.Bundle.BD
+
+Scanning: E:\Xcluded\Samples\ba29d87079da469697d5f693f98ff149
+Infected: ADWARE/InstallRex.Q
+
+Scanning: E:\Xcluded\Samples\668c2086e2f849f792bbc88931631a8b
+Infected: Trojan/Win32.Agent
+
+Scanning: E:\Xcluded\Samples\29a49b147f0b4ea5b0108f920dd7fc20
+Infected: Trojan/Win32.Bladabindi
+
+Scanning: E:\Xcluded\Samples\be530cb4a54b4ceb821ff66f33560c25
+Infected: Adware.SearchProtect.2
+
+Scanning: E:\Xcluded\Samples\05933f8893ae4fa3834dda7170d4c30e
+Infected: W64/Trojan.ZEDZ-3398
+
+Scanning: E:\Xcluded\Samples\5cfa6f3e9b0d49a0a69cd9b29c7d1b17
+Infected: ADWARE/Adware.Gen
+
+Scanning: E:\Xcluded\Samples\17dd3293105a461fb520f80d307229eb
+Infected: Script/Exploit.Kit
+
+Scanning: E:\Xcluded\Samples\2f8ab3af8ab244dd8c59214ba26840a2
+Infected: Trojan/Win32.SGeneric
+
+Scanning: E:\Xcluded\Samples\e49e63e208cb4c4d8a7305249a8bf22b
+Infected: Trojan/Win32.SGeneric
+
+Scanning: E:\Xcluded\Samples\a7027a0fcdd34181a412d2b72c3cf43e
+Infected: Trojan.GenericKD.30788163 (B)
+
+Scanning: E:\Xcluded\Samples\d0fea598d13d45fd8347118cb40d5b0e
+Infected: Adware.WProtManager.Win32.21
+
+Scanning: E:\Xcluded\Samples\fc090f8a31524750bbcb013f624c5721
+Infected: virus_nameAdWare.Agent
+
+Scanning: E:\Xcluded\Samples\cfd3b030868a40ff9c0172eb1154e46a
+Infected: Adware.SearchProtect.2
+
+Scanning: E:\Xcluded\Samples\06e33b2f666a4d29af39d885bb1e8625
+Infected: Riskware.Win32.FunWeb.dbxkle
+
+Scanning: E:\Xcluded\Samples\d3ec89a99c3c4cd1b250a0ea96642c8a
+Infected: Adware.WProtManager.Win32.21
+
+Scanning: E:\Xcluded\Samples\868f4bad3924405db885e56e94227c59
+Infected: Application.Agent.HN
+
+Scanning: E:\Xcluded\Samples\804e9fe6653242b9a58c2d10b8240b3c
+Infected: Riskware/MyWebSearch
+
+Scanning: E:\Xcluded\Samples\bfeab8d16cee4ea186af5b6e0ff27210
+Infected: Trojan.Mauvasie
+
+Scanning: E:\Xcluded\Samples\ccbf5e006971447f9fad33b8947c6325
+Infected: Trojan/Win32.SGeneric
+
+Scanning: E:\Xcluded\Samples\d3d8331c27af4f3fa686afb9c656fce5
+Infected: Trojan/Win32.Bladabindi
+
+Scanning: E:\Xcluded\Samples\08e8c12c4db1432ab7c15905001b23c2
+Infected: Troj/Keygen-DX
+
+Scanning: E:\Xcluded\Samples\b0e85d18c2f54396b13dd60209392e0b
+Infected: MyPCBackup.E.foha
+
+Scanning: E:\Xcluded\Samples\20e607dccb3546c8b44ec496984e530e
+Infected: Trojan.DR.Diple.Gen.4
+
+Scanning: E:\Xcluded\Samples\5bc64850fb2c4cf18e574cf9a3362158
+Infected: Trojan.Mauvasie
+
+Scanning: E:\Xcluded\Samples\90fe1faf71b34ad2b0606c45db6298f0
+Infected: Adware.Suptab.Aq	
+
+Scanning: E:\Xcluded\Samples\a9207d739ddc475d8ed16d0f78cf2c89
+Infected: Adware.Win32.Agent
+
+Scanning: E:\Xcluded\Samples\19dcb7300358433983a3dec46f2ac01f
+Infected: Hacktool.IdleKMS.C.gfky
+
+Scanning: E:\Xcluded\Samples\c35fbfff5bb84c398bafb3983a8c22d0
+Infected: Hacktool.IdleKMS.C.gfky
+
+Scanning: E:\Xcluded\Samples\6b7e830c1be743ba84c81101bc9a0a9b
+Infected: Trojan.Miner.ZZ2
+
+Scanning: E:\Xcluded\Samples\2e1caef5dc7943e09b0a61babfac5697
+Infected: Trojan.GenericKD.30788163
+
+Scanning: E:\Xcluded\Samples\cb1411fa4066429b82e8914547709e2d
+Infected: Trojan.GenericKD.30788163
+
+Scanning: E:\Xcluded\Samples\566ff9a0bad4403f9ce5efcec418c061
+Infected: JS/Exploit-Blacole.jf
+
+Scanning: E:\Xcluded\Samples\d2c88a745166413d9b10022bb67702be
+Infected: W64/Trojan.ZEDZ-3398
+
+Scanning: E:\Xcluded\Samples\723327b5dfb54cda9b4a5c3746e21ea0
+Infected: Adware.WProtManager.Win32.21
+
+Scanning: E:\Xcluded\Samples\26f0d083925b47bc92b6439e21236711
+Infected: Trojan.Mauvasie
+
+Scanning: E:\Xcluded\Samples\4efcf433ecb14b738b1865f76f31db91
+Infected: virus_nameAdWare.Agent
+
+Scanning: E:\Xcluded\Samples\801ebac20e5b46ceae66c56d4bb46a70
+Infected: Adware.SearchProtect.2
+
+Scanning: E:\Xcluded\Samples\64af3f3e092f4f9c8e6a7871fdc99d67
+Infected: Trojan-PWS.Win32.Kykymber
+
+Scanning: E:\Xcluded\Samples\01abe91bc73b47f3b60cade805eca2d3
+Infected: Trojan.DR.Diple.Gen.4
+
+Scanning: E:\Xcluded\Samples\2b2b620443ff4e5ba526bf6c6839b1b5
+Infected: JS/Exploit-Blacole.jf
+
+Scanning: E:\Xcluded\Samples\daee30504b9f4a4eb72480e1f88ac41c
+Infected: Adware.Win32.Agent
+
+Scanning: E:\Xcluded\Samples\9eb3564c86854f7fb5689eb7086c7f1e
+Infected: Riskware.Win32.FunWeb.dbxkle
+
+Scanning: E:\Xcluded\Samples\91bf9c6584144f44b740cc4626223abc
+Infected: Trojan.Mauvasie
+
+Scanning: E:\Xcluded\Samples\edaaa360fa844c9389ad813406623d50
+Infected: Malware@#24l1bmprvk8x
+
+Scanning: E:\Xcluded\Samples\0e7517045f2842d68c3beb0bfa9b5248
+Infected: PUP.Win32.MindSpark.F
+
+Scanning: E:\Xcluded\Samples\54c2cce29c404e7495cd6b665969e936
+Infected: Trojan.Miner.ZZ2
+
+Scanning: E:\Xcluded\Samples\758242796453402a9bb4f81c74b2c0ad
+Infected: MyPCBackup.E.foha
+
+Scanning: E:\Xcluded\Samples\c8749b8724aa435f98565f7fb2b5dd9f
+Infected: W64/Trojan.ZEDZ-3398
+
+Scanning: E:\Xcluded\Samples\d17b9e8a85eb4a1dba4c8a45463161fd
+Infected: Malware@#24l1bmprvk8x
+
+Scanning: E:\Xcluded\Samples\ca7a253fa9144dd3b4007d7c28464e52
+Infected: Virus/Win32.Nimnul.a
+
+Scanning: E:\Xcluded\Samples\189cf43598aa4fef94a6b705f5d87ce1
+Infected: Skodna.Bundle.BD
+
+Scanning: E:\Xcluded\Samples\d5aaf3c8e3354cd4b94dd67ae2c629cc
+Infected: Gandcrab.Ransomware
+
+Scanning: E:\Xcluded\Samples\e2cc9716798c4112b1ba73addd1424f1
+Infected: Adware.SearchProtect.ky.tmre
+
+Scanning: E:\Xcluded\Samples\363681c0989240c98be759eaf7d46dfa
+Infected: Win32/Expiro4.Gen
+
+Scanning: E:\Xcluded\Samples\d4425d877c474399b8e6f494c5dc8198
+Infected: Adware.Suptab.Aq	
+
+Scanning: E:\Xcluded\Samples\8b9d8486f9e441af919a869043bf53ec
+Infected: virus_nameAdWare.Agent
+
+Scanning: E:\Xcluded\Samples\46951559e639474284e3419acd580ae9
+Infected: Skodna.Bundle.BD
+
+Scanning: E:\Xcluded\Samples\b87bd8375bf44172b931d3b1d5a1bbfa
+Infected: Adware.WProtManager.Win32.21
+
+Scanning: E:\Xcluded\Samples\d4a2d9734ec34fa2ae3ca3a107fabfe0
+Infected: W64/Trojan.ZEDZ-3398
+
+Scanning: E:\Xcluded\Samples\936eaaa360a94fcb88b5db752b4085a0
+Infected: Win32.Madang.C
+
+Scanning: E:\Xcluded\Samples\0763c7e365604dc0a25e82d60a1529c5
+Infected: Trojan/Win32.Bladabindi
+
+Scanning: E:\Xcluded\Samples\39cd3348c88b4e69bdc4169159d6c46d
+Infected: Application.Agent.HN
+
+Scanning: E:\Xcluded\Samples\545f1f258e314e629ddda596dd23df4f
+Infected: Trojan.GenericKD.30788163 (B)
+
+Scanning: E:\Xcluded\Samples\315a3291718c4a8a887c7549209d6246
+Infected: Win.Adware.SupTab
+
+Scanning: E:\Xcluded\Samples\d13088505f8747928bcdd58066bfc88f
+Infected: Troj/Keygen-DX
+
+Scanning: E:\Xcluded\Samples\9a7b627049d54a73825cb96df71e89be
+Infected: Troj/Keygen-DX
+
+Scanning: E:\Xcluded\Samples\3270ade56aba4d48b4c3463e30c37127
+Infected: Script/Exploit.Kit
+
+Scanning: E:\Xcluded\Samples\fd2d7ab1beae4010a8e565bc2d2be46a
+Infected: Adware/Agent.lmx	
+
+Scanning: E:\Xcluded\Samples\460676082bc54958b5b205f2ab88ac3e
+Infected: Trojan.GenericKD.30788163
+
+Scanning: E:\Xcluded\Samples\14077cf6e446490fbf86d71196f234de
+Infected: Application.Agent.HN
+
+Scanning: E:\Xcluded\Samples\9c8b51616d1142b2b07b9e0c6dcd3a74
+Infected: Troj/Keygen-DX
+
+Scanning: E:\Xcluded\Samples\1009217a92624b43a1f703bd623320dd
+Infected: ADWARE/InstallRex.Q
+
+Scanning: E:\Xcluded\Samples\578fc9bb332a491fa7de3173a9eff205
+Infected: PUP.Win32.MindSpark.F
+
+Scanning: E:\Xcluded\Samples\3662387983dd495f8adc7611b0657f68
+Infected: Trojan.Miner.ZZ2
+
+Scanning: E:\Xcluded\Samples\316368a5163948309ba879f053ab60db
+Infected: Trojan.DR.Diple.Gen.4
+
+Scanning: E:\Xcluded\Samples\b9ece9f657414ff998267d252ab49cac
+Infected: ADWARE/InstallRex.Q
+
+Scanning: E:\Xcluded\Samples\480956123e444af49a2b7dbcc383cf29
+Infected: Script/Exploit.Kit
+
+Scanning: E:\Xcluded\Samples\94e77d0fb5664f07849192a52503b195
+Infected: Trojan/Win32.Bladabindi
+
+Scanning: E:\Xcluded\Samples\290eb4e33ca84359b0f5e3b08fc6a5f5
+Infected: JS/Exploit-Blacole.jf
+
+Scanning: E:\Xcluded\Samples\87ec9c53206f4c0cbe180eceb24b1f8e
+Infected: Trojan-PWS.Win32.Kykymber
+
+Scanning: E:\Xcluded\Samples\fe4447bda36c448f8ba35d82a7dc3737
+Infected: Trojan/Win32.Agent
+
+Scanning: E:\Xcluded\Samples\9142a9a046c6497d9402463a365bb90d
+Infected: MyPCBackup.E.foha
+
+Scanning: E:\Xcluded\Samples\e6739e9056814528a415f7055a308f88
+Infected: ADWARE/InstallRex.Q
+
+Scanning: E:\Xcluded\Samples\fd7ef2a5ca374227b4ae439ca9a0ac61
+Infected: Trojan.Miner.ZZ2
+
+Scanning: E:\Xcluded\Samples\f51d749ad521462ebcdfcd1b9c542505
+Infected: ADWARE/Adware.Gen
+
+Scanning: E:\Xcluded\Samples\bd9a5e0eaaba4ec8988494b248652421
+Infected: virus_nameAdWare.Agent
+
+Scanning: E:\Xcluded\Samples\aa143ff455d2497e87a8380a4d50601c
+Infected: PUP.Win32.MindSpark.F
+
+Scanning: E:\Xcluded\Samples\1e8da75c1ac640f28b801c2cdc1551c2
+Infected: Trojan.DR.Diple.Gen.4
+
+Scanning: E:\Xcluded\Samples\a4066af60b3445a48017aa8701bf8aaf
+Infected: Trojan.Miner.ZZ2
+
+Scanning: E:\Xcluded\Samples\b17f582c0f4740409e487108cc82cd04
+Infected: Trojan/Win32.SGeneric
+
+Scanning: E:\Xcluded\Samples\cbfe68409eb648de9500b66d711aed4a
+Infected: virus_nameAdWare.Agent
+
+Scanning: E:\Xcluded\Samples\c8012d2855d34de4b9e3ea92af8032e2
+Infected: Adware.SearchProtect.ky.tmre
+
+Scanning: E:\Xcluded\Samples\cac45c3354f940bba2d580def446bf3d
+Infected: Trojan-PWS.Win32.Kykymber
+
+Scanning: E:\Xcluded\Samples\b6538465304042469a2bf97f572a5a2f
+Infected: Trojan/Win32.Bladabindi
+
+Scanning: E:\Xcluded\Samples\db8d2235a06746f598e91ba6077f790f
+Infected: Trojan.DR.Diple.Gen.4
+
+Scanning: E:\Xcluded\Samples\5dae8fec0772487ebe15585248d28c8b
+Infected: Trojan/Win32.Bladabindi
+
+Scanning: E:\Xcluded\Samples\bd5ecc847d34411ea2870ffded6d3eb5
+Infected: Script/Exploit.Kit
+
+Scanning: E:\Xcluded\Samples\9241e5c0099340f29c187ca4ed0a4856
+Infected: Gandcrab.Ransomware
+
+Scanning: E:\Xcluded\Samples\060083834027497bb40b64c1db1b861b
+Infected: Application.Agent.HN
+
+Scanning: E:\Xcluded\Samples\c5a3fa966136459caf98dcf69c9fb888
+Infected: Virus/Win32.Nimnul.a
+
+Scanning: E:\Xcluded\Samples\d438d17db2584973be4da8cbd3b82fd1
+Infected: Virus/Win32.Nimnul.a
+
+Scanning: E:\Xcluded\Samples\89e16458d9d14846a8ac3d72e0105741
+Infected: Win.Adware.SupTab
+
+Scanning: E:\Xcluded\Samples\bca511878a194058bf5d1d644408f164
+Infected: Riskware.Win32.FunWeb.dbxkle
+
+Scanning: E:\Xcluded\Samples\85f3ac29a5764df29c9599eb3801db0e
+Infected: Malware@#24l1bmprvk8x
+
+Scanning: E:\Xcluded\Samples\e5df3b7aa5804db48999460cf8165895
+Infected: ADWARE/Adware.Gen
+
+Scanning: E:\Xcluded\Samples\de5efeffbb804a07b6158ab054a80458
+Infected: ADWARE/InstallRex.Q
+
+Scanning: E:\Xcluded\Samples\01fb4bfad79c47858bcf1e4042d83f76
+Infected: Adware.SearchProtect.2
+
+Scanning: E:\Xcluded\Samples\dbe0408b58bf4601a48f5d762306d765
+Infected: Adware.MAC.OSX.Genieo.BU
+
+Scanning: E:\Xcluded\Samples\b6c270a703624eb4928a00ea2266aeb0
+Infected: Adware.SearchProtect.ky.tmre
+
+Scanning: E:\Xcluded\Samples\a96edffd51fc4a44b27f000c9ab52f81
+Infected: ADWARE/Adware.Gen
+
+Scanning: E:\Xcluded\Samples\ac8e59a8ebe84f97828399f8e5113f5e
+Infected: Adware.MAC.OSX.Genieo.BU
+
+Scanning: E:\Xcluded\Samples\9b436a7e982d46e1ac285e06715e8d6a
+Infected: Troj/Keygen-DX
+
+Scanning: E:\Xcluded\Samples\561bf7cb72a94ac1893485e612aec0cf
+Infected: Adware.Win32.Agent
+
+Scanning: E:\Xcluded\Samples\61af32014fc0435cb78224596c3559dc
+Infected: Script/Exploit.Kit
+
+Scanning: E:\Xcluded\Samples\219de240a35f46d98bf9e57eb008b762
+Infected: Trojan/Win32.Agent
+
+Scanning: E:\Xcluded\Samples\45a4e3b649024c18849f133506d4a96c
+Infected: Adware.SearchProtect.ky.tmre
+
+Scanning: E:\Xcluded\Samples\b522c34311024718b8a5d95c863013e4
+Infected: Trojan/Win32.Agent
+
+Scanning: E:\Xcluded\Samples\e54dab05ba444fc2888c1714f32b9a7c
+Infected: Trojan.GenericKD.30788163
+
+Scanning: E:\Xcluded\Samples\56620554809842b9a008d8b034e52d31
+Infected: Trojan.Mauvasie
+
+Scanning: E:\Xcluded\Samples\8e15197af3454a66930dd52b486c75bf
+Infected: MyPCBackup.E.foha
+
+Scanning: E:\Xcluded\Samples\47ea15b7eefc443f90a4c60ed5165a59
+Infected: Riskware/MyWebSearch
+
+Scanning: E:\Xcluded\Samples\e65f797dc24f41b4a6ec8dba2eb7f9d6
+Infected: Win32.Madang.C
+
+Scanning: E:\Xcluded\Samples\9508b3b2afd44d5c93c1ce4888639b4f
+Infected: Riskware.Win32.FunWeb.dbxkle
+
+Scanning: E:\Xcluded\Samples\ba3a3e44e50f44d0a4c1cc003281e04f
+Infected: Skodna.Bundle.BD
+
+Scanning: E:\Xcluded\Samples\ab0b99a104ab462885a24e59facb41b7
+Infected: Virus/Win32.Nimnul.a
+
+Scanning: E:\Xcluded\Samples\24a16a47099144df95e2997384dd986b
+Infected: Adware.MAC.OSX.Genieo.BU
+
+Scanning: E:\Xcluded\Samples\89065e739dd647c18d468939f68bfd5e
+Infected: W64/Trojan.ZEDZ-3398
+
+Scanning: E:\Xcluded\Samples\d9f77b35564c4bcb99eacbc4753d8d5b
+Infected: Skodna.Bundle.BD
+
+Scanning: E:\Xcluded\Samples\3fbed3538e7b4e8e8e13182c2ef492bc
+Infected: Hacktool.IdleKMS.C.gfky
+
+Scanning: E:\Xcluded\Samples\bf36549f841342b4a61acba48928da2e
+Infected: ADWARE/Adware.Gen
+
+Scanning: E:\Xcluded\Samples\fef463179566434e92a0f04713f765fc
+Infected: Trojan.DR.Diple.Gen.4
+
+Scanning: E:\Xcluded\Samples\403a0f4c4dea49d0a85e5b7705b260b3
+Infected: PUP.Win32.MindSpark.F
+
+Scanning: E:\Xcluded\Samples\119c18c054544bb7814c3723bb32b92e
+Infected: Win.Adware.SupTab
+
+Scanning: E:\Xcluded\Samples\361b4bfe0bfc4767a2dbe3471681c261
+Infected: Virus/Win32.Nimnul.a
+
+Scanning: E:\Xcluded\Samples\1a6ef54dc2114978b28f3d32198a92af
+Infected: Trojan.Mauvasie
+
+Scanning: E:\Xcluded\Samples\dbb987dd2d98429ba1185e74bb16895f
+Infected: Trojan/Win32.Bladabindi
+
+Scanning: E:\Xcluded\Samples\589d8c07b3814702981fde027c43c103
+Infected: Trojan.GenericKD.30788163 (B)
+
+Scanning: E:\Xcluded\Samples\37a05e5e44e54a25a8b39b264e92b336
+Infected: Virus/Win32.Nimnul.a
+
+Scanning: E:\Xcluded\Samples\c2690a1099684c54851106c8fe85e694
+Infected: Troj/Keygen-DX
+
+Scanning: E:\Xcluded\Samples\304747d607024c71a946998afb26d2c3
+Infected: Adware.SearchProtect.ky.tmre
+
+Scanning: E:\Xcluded\Samples\d47f153d01d54ecba78547c2172ae689
+Infected: Trojan.Miner.ZZ2
+
+Scanning: E:\Xcluded\Samples\9f13d50f1b4445d7a8a6ac6cf2401028
+Infected: Trojan.Mauvasie
+
+Scanning: E:\Xcluded\Samples\9ccf651f10a04f4da5ca000e2a55f820
+Infected: Riskware/MyWebSearch
+
+Scanning: E:\Xcluded\Samples\8dbec748f38b4b9494c92f0a869e2657
+Infected: Virus/Win32.Nimnul.a
+
+Scanning: E:\Xcluded\Samples\7f218a8ab3a843818702103ae3f84614
+Infected: Trojan/Win32.Agent
+
+Scanning: E:\Xcluded\Samples\369f0c6f813240d89a821c0b4d5445f4
+Infected: Malware@#24l1bmprvk8x
+
+Scanning: E:\Xcluded\Samples\33bbe4bc7f644b02a15c0657c8e9de8a
+Infected: Win32.Madang.C
+
+Scanning: E:\Xcluded\Samples\d0387f0f3bb64375ba9b0624fd8aa231
+Infected: Trojan.Miner.ZZ2
+
+Scanning: E:\Xcluded\Samples\7e4df72208b0486aab222f275e5c8ac2
+Infected: Trojan.Mauvasie
+
+Scanning: E:\Xcluded\Samples\1d88332780a14c7eb5b6c0c4312168c9
+Infected: Virus/Win32.Nimnul.a
+
+Scanning: E:\Xcluded\Samples\b252c768243a4da186598e7ac13b0adf
+Infected: Riskware/MyWebSearch
+
+Scanning: E:\Xcluded\Samples\09e59b65447c4272b4ff030abe38ac57
+Infected: Riskware/MyWebSearch
+
+Scanning: E:\Xcluded\Samples\2f0e90b0895347ee80be7d6f113c5728
+Infected: Hacktool.IdleKMS.C.gfky
+
+Scanning: E:\Xcluded\Samples\b8d0917a9a164f3b9e328c9b6a5f3c18
+Infected: Adware.SearchProtect.2
+
+Scanning: E:\Xcluded\Samples\a41947e6b93144da9a47bdd4f9f32d2e
+Infected: Trojan/Win32.Bladabindi
+
+Scanning: E:\Xcluded\Samples\b168547d1252485e9582beccdeb75655
+Infected: Script/Exploit.Kit
+
+Scanning: E:\Xcluded\Samples\74673181ea924de8a4d6046c90463bcb
+Infected: Win32/Expiro4.Gen
+
+Scanning: E:\Xcluded\Samples\0c0324f7506142e4a91ecfaf11391f84
+Infected: Malware@#24l1bmprvk8x
+
+Scanning: E:\Xcluded\Samples\0b71c77b719b496c9e09c3af2a5c2d33
+Infected: Trojan.ADRD
+
+Scanning: E:\Xcluded\Samples\84a715525a894c878c804d956d8a1f35
+Infected: W64/Trojan.ZEDZ-3398
+
+Scanning: E:\Xcluded\Samples\a0ed04189d374ae093611d268f27c35a
+Infected: Riskware.Win32.FunWeb.dbxkle
+
+Scanning: E:\Xcluded\Samples\2c366a1e90ce4edaba8951ed6ff4e041
+Infected: Trojan.GenericKD.30788163
+
+Scanning: E:\Xcluded\Samples\24497ff7bd9b48aca750ba4935017418
+Infected: Adware.Suptab.Aq	
+
+Scanning: E:\Xcluded\Samples\6404b688438045c38c8516e5e6dff6d9
+Infected: Adware.WProtManager.Win32.21
+
+Scanning: E:\Xcluded\Samples\190752e3107e4727bd16ae687f3b68f3
+Infected: Adware.MAC.OSX.Genieo.BU
+
+Scanning: E:\Xcluded\Samples\e63c788288b2463dbbd552fc3e374455
+Infected: Adware.Suptab.Aq	
+
+Scanning: E:\Xcluded\Samples\58a0232609a841fa8d72d9cd40fd3917
+Infected: Trojan.Mauvasie
+
+Scanning: E:\Xcluded\Samples\298482b14f844d6e86e6d6f248dbd26e
+Infected: Gandcrab.Ransomware
+
+Scanning: E:\Xcluded\Samples\da961195876a4e94b3be9d2c0c773eec
+Infected: Trojan/Win32.Agent
+
+Scanning: E:\Xcluded\Samples\441d1500e80b438a99d2adc01001a3db
+Infected: Adware/Agent.lmx	
+
+Scanning: E:\Xcluded\Samples\2a66eb4f827b4333b4ecc4f3d084a60b
+Infected: Riskware/MyWebSearch
+
+Scanning: E:\Xcluded\Samples\eea11b7b60c649e9880f21a0054774e9
+Infected: Gandcrab.Ransomware
+
+Scanning: E:\Xcluded\Samples\15e019bfd419401b9a41bbbb6892aa9e
+Infected: JS/Exploit-Blacole.jf
+
+Scanning: E:\Xcluded\Samples\5b6b3d6ad28e4188908c48c8dfe465fb
+Infected: TR/Winsecsrv.Gen
+
+Scanning: E:\Xcluded\Samples\4f1cfe41e8dc47dbbd8e1845f0766278
+Infected: Malware@#24l1bmprvk8x
+
+Scanning: E:\Xcluded\Samples\49b7453f4f2943fa843876c2f3778ac8
+Infected: Malware@#24l1bmprvk8x
+
+Scanning: E:\Xcluded\Samples\87143718304846fcbf0d05a1ac9f2b04
+Infected: Trojan/Win32.SGeneric
+
+Scanning: E:\Xcluded\Samples\ee5058101f0440c7976cf28e2066b980
+Infected: Troj/Keygen-DX
+
+Scanning: E:\Xcluded\Samples\ffdbcade5040410f8cf63c9c3235c8e2
+Infected: virus_nameAdWare.Agent
+
+Scanning: E:\Xcluded\Samples\e95be4d5203940b698ef4ddb4136191c
+Infected: Trojan.Miner.ZZ2
+
+Scanning: E:\Xcluded\Samples\1e07beb92a5f40e6abba96e7f869934b
+Infected: Trojan.GenericKD.30788163
+
+Scanning: E:\Xcluded\Samples\669e5b1dc4f740ef8250f46cb70d77ca
+Infected: Trojan.GenericKD.30788163 (B)
+
+Scanning: E:\Xcluded\Samples\fffcda808d3c4569a80b23f6bedd24b6
+Infected: Trojan.GenericKD.30788163 (B)
+
+Scanning: E:\Xcluded\Samples\1460429c56fc42c4b674fbcc91bf32a2
+Infected: MyPCBackup.E.foha
+
+Scanning: E:\Xcluded\Samples\f927b93137f94bc0a0e1d6d972badec7
+Infected: Adware.Win32.Agent
+
+Scanning: E:\Xcluded\Samples\03cce8e4ec834620a7b6982877ffd507
+Infected: Trojan/Win32.Bladabindi
+
+Scanning: E:\Xcluded\Samples\c8a9bce85cf247ffac3abd94ae619556
+Infected: Malware@#24l1bmprvk8x
+
+Scanning: E:\Xcluded\Samples\936ff9d494c746378cff076abe252c51
+Infected: Riskware.Win32.FunWeb.dbxkle
+
+Scanning: E:\Xcluded\Samples\cb73b3b49cf544699791cd8324bc28fb
+Infected: MyPCBackup.E.foha
+
+Scanning: E:\Xcluded\Samples\a632820bd27f4cf5bd8407a4655b81f0
+Infected: Skodna.Bundle.BD
+
+Scanning: E:\Xcluded\Samples\ea7e0b7a714249c4b8c078934f6ec7bd
+Infected: Skodna.Bundle.BD
+
+Scanning: E:\Xcluded\Samples\582874b94036478796f1ded77b2dc3f0
+Infected: PUP.Win32.MindSpark.F
+
+Scanning: E:\Xcluded\Samples\62ab44aea24647389a12021b0d514e2b
+Infected: Trojan.Miner.ZZ2
+
+Scanning: E:\Xcluded\Samples\fa8611947e51412783ef997f41d6695e
+Infected: Adware.Win32.Agent
+
+Scanning: E:\Xcluded\Samples\9b9c02c5e9044da98c32f732b808ef9d
+Infected: Win.Adware.SupTab
+
+Scanning: E:\Xcluded\Samples\cc78af3272f94e6586e69b78e7e1cae0
+Infected: TR/Winsecsrv.Gen
+
+Scanning: E:\Xcluded\Samples\e491a71a031847a4b8a2fb639a174196
+Infected: Virus/Win32.Nimnul.a
+
+Scanning: E:\Xcluded\Samples\5518486bcb5c4b27b24139601f6f51e3
+Infected: Trojan.GenericKD.30788163
+
+Scanning: E:\Xcluded\Samples\ac24343b51334735bcc7f052a8409b64
+Infected: Troj/Keygen-DX
+
+Scanning: E:\Xcluded\Samples\ddbdf0b4ae3c4f70a52a440dce3eab38
+Infected: Adware.WProtManager.Win32.21
+
+Scanning: E:\Xcluded\Samples\ae0ac4abb1c646fb8e2adde2a586c407
+Infected: Adware.WProtManager.Win32.21
+
+Scanning: E:\Xcluded\Samples\470e89f917c943c0905b2b989bdd8656
+Infected: Script/Exploit.Kit
+
+Scanning: E:\Xcluded\Samples\9c0a0ea5ab7045dbaa30d741de55e5b7
+Infected: Adware.WProtManager.Win32.21
+
+Scanning: E:\Xcluded\Samples\508e485cfb8c4804b4e0106059c2a42d
+Infected: Malware@#24l1bmprvk8x
+
+Scanning: E:\Xcluded\Samples\e00289ba446145e6902f4f6cd2cd89f0
+Infected: Riskware.Win32.FunWeb.dbxkle
+
+Scanning: E:\Xcluded\Samples\b0d04ab6c3224bbeb43f9e9c102cfc10
+Infected: JS/Exploit-Blacole.jf
+
+Scanning: E:\Xcluded\Samples\0de4903aa475476c8bbac69c67463be0
+Infected: Trojan.ADRD
+
+Scanning: E:\Xcluded\Samples\9883be8cf0cd4878bc56e3b85c9a66e3
+Infected: Trojan.GenericKD.30788163 (B)
+
+Scanning: E:\Xcluded\Samples\1ba9af40bda74a2aa640ba18c9bb194f
+Infected: Adware/Agent.lmx	
+
+Scanning: E:\Xcluded\Samples\69d6e3fbf56d4981bf90dd835584e961
+Infected: Application.Agent.HN
+
+Scanning: E:\Xcluded\Samples\5c2ae96f98e8430facdca238a98ab208
+Infected: MyPCBackup.E.foha
+
+Scanning: E:\Xcluded\Samples\ef67b61e988545ad92ef378e6ec8b863
+Infected: Trojan/Win32.Agent
+
+Scanning: E:\Xcluded\Samples\451bbbafea2442ca9389291a981e2078
+Infected: W64/Trojan.ZEDZ-3398
+
+Scanning: E:\Xcluded\Samples\637da9851f5c47c3ae07de80ee2d51b7
+Infected: Adware.MAC.OSX.Genieo.BU
+
+Scanning: E:\Xcluded\Samples\14086a9a3a114de7b4dbe4257da3e029
+Infected: Adware.MAC.OSX.Genieo.BU
+
+Scanning: E:\Xcluded\Samples\d92057f4ff6a48c7bde1bb8e15b29538
+Infected: Trojan/Win32.SGeneric
+
+Scanning: E:\Xcluded\Samples\00ab2229533748a7ba348b7f465b7cf2
+Infected: Application.Agent.HN
+
+Scanning: E:\Xcluded\Samples\60236215ad024be9ace2168fdaf1d9e7
+Infected: Adware.MAC.OSX.Genieo.BU
+
+Scanning: E:\Xcluded\Samples\73226d7e947148a7ad6a2207f07e56f4
+Infected: ADWARE/InstallRex.Q
+
+Scanning: E:\Xcluded\Samples\9dbdaae47bd24a96b55ef1d912f49be6
+Infected: Trojan.GenericKD.30788163
+
+Scanning: E:\Xcluded\Samples\9dae6a42a52a4f48a5d664a637046af2
+Infected: Trojan.DR.Diple.Gen.4
+
+Scanning: E:\Xcluded\Samples\d19d3c5c29264d3aa50b63345dc3d37f
+Infected: Trojan-PWS.Win32.Kykymber
+
+Scanning: E:\Xcluded\Samples\df8b49e898d24ec6bf1e1ebd8746ba62
+Infected: Trojan.ADRD
+
+Scanning: E:\Xcluded\Samples\5c073341f5754826a94a709153b6c29f
+Infected: Trojan/Win32.Agent
+
+Scanning: E:\Xcluded\Samples\6f66601d36ed4a868156904efa560180
+Infected: JS/Exploit-Blacole.jf
+
+Scanning: E:\Xcluded\Samples\db66ad1605394c9db0d9d47382f56404
+Infected: Trojan.ADRD
+
+Scanning: E:\Xcluded\Samples\2ba74eeee87644369355a8b7b4bd2bd5
+Infected: Trojan/Win32.SGeneric
+
+Scanning: E:\Xcluded\Samples\37fce4e3c2a44c728eb556c250a16a04
+Infected: Trojan.GenericKD.30788163
+
+Scanning: E:\Xcluded\Samples\ab4e905b125c4f03a49aebd486ec0c13
+Infected: Trojan-PWS.Win32.Kykymber
+
+Scanning: E:\Xcluded\Samples\1b7b6440756149eeb3d7e7c82ee50037
+Infected: Trojan.ADRD
+
+Scanning: E:\Xcluded\Samples\eba1a8320938454d9e9ff53df13151c2
+Infected: Adware/Agent.lmx	
+
+Scanning: E:\Xcluded\Samples\13e37372934448fba8aa1556f6e3b07d
+Infected: Trojan/Win32.SGeneric
+
+Scanning: E:\Xcluded\Samples\1efd706f590d4b3c80029f4e2de4add0
+Infected: MyPCBackup.E.foha
+
+Scanning: E:\Xcluded\Samples\e8ba71e1a20e4ba3bab417210e7a07c1
+Infected: Script/Exploit.Kit
+
+Scanning: E:\Xcluded\Samples\d48038173b9b4abb88cbf68053ee077e
+Infected: Virus/Win32.Nimnul.a
+
+Scanning: E:\Xcluded\Samples\5db1cebf41d6428facf1bc546f22e30f
+Infected: Adware.SearchProtect.2
+
+Scanning: E:\Xcluded\Samples\345a7bc8cbbb4b4096a6304d7f437590
+Infected: Adware.MAC.OSX.Genieo.BU
+
+Scanning: E:\Xcluded\Samples\d37439f6449b46c488fcc4350e28a1ed
+Infected: Trojan/Win32.Bladabindi
+
+Scanning: E:\Xcluded\Samples\9754230176fc4fe19f73c39324082c0b
+Infected: PUP.Win32.MindSpark.F
+
+Scanning: E:\Xcluded\Samples\57d66bd96dcb4b5191032e4e563d65f0
+Infected: Hacktool.IdleKMS.C.gfky
+
+Scanning: E:\Xcluded\Samples\9d6e064b8dc945a08949765f801d7bf3
+Infected: Trojan/Win32.SGeneric
+
+Scanning: E:\Xcluded\Samples\7e6937a4cede490096874797372fc28b
+Infected: Trojan.DR.Diple.Gen.4
+
+Scanning: E:\Xcluded\Samples\8c44c79d10b34220b99a8c1605d99059
+Infected: Adware/Agent.lmx	
+
+Scanning: E:\Xcluded\Samples\a67bffb4b914420c8194d9c09709cda9
+Infected: Trojan.ADRD
+
+Scanning: E:\Xcluded\Samples\d237c90305f54a579052acdbba35533e
+Infected: Script/Exploit.Kit
+
+Scanning: E:\Xcluded\Samples\42f007e9f4c041a286fc85637ca7ae04
+Infected: Hacktool.IdleKMS.C.gfky
+
+Scanning: E:\Xcluded\Samples\6930513ba44549c28608fe6fcac0e554
+Infected: Riskware.Win32.FunWeb.dbxkle
+
+Scanning: E:\Xcluded\Samples\bf6af25560f14999b62383400682b3a1
+Infected: virus_nameAdWare.Agent
+
+Scanning: E:\Xcluded\Samples\1306efea10eb442ba230203fb7a0e428
+Infected: Win32.Madang.C
+
+Scanning: E:\Xcluded\Samples\6594e513f0864af2b6626065038facab
+Infected: Application.Agent.HN
+
+Scanning: E:\Xcluded\Samples\443eca19c3134fd3abb69e7ff3adb4e7
+Infected: Riskware.Win32.FunWeb.dbxkle
+
+Scanning: E:\Xcluded\Samples\657ee6491c8146c1b0fd2dcae2914d6e
+Infected: TR/Winsecsrv.Gen
+
+Scanning: E:\Xcluded\Samples\6928d3760ff444a7a8166f67f0edbe3d
+Infected: Trojan/Win32.SGeneric
+
+Scanning: E:\Xcluded\Samples\632b99649b07457b84249d8b737916d1
+Infected: Script/Exploit.Kit
+
