@@ -18,7 +18,7 @@ def secondSmallest(numlist):
 
 if __name__ == '__main__':
 
-    numlist = [2,35,1,53,56,2,6,9,5,42]
+    numlist = [10, 20, 15]
     print (("second smallest element in list is %d") % (secondSmallest(numlist)))
 
 
