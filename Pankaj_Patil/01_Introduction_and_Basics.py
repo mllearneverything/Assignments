@@ -44,7 +44,7 @@ def Second_Smallest():
 def Change_Pos():
     l = [4,12,8,6,7]
     length = len(l)
-    print(length)
+    #print(length)
     if 0 != length % 2:
         length = length - 1
     while i < length:
